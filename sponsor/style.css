@@ -1,0 +1,75 @@
+:root {
+  color-scheme: dark;
+  --base: #0b101b;
+  --surface: #111a29;
+  --line: #303a4c;
+  --gold: #edc583;
+  --cream: #faf3e6;
+  --muted: #bec8d6;
+  --blue: #b9d6fc;
+  font-family: "Hiragino Sans", "Yu Gothic", Meiryo, system-ui, sans-serif;
+  font-size: 100%;
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; scroll-padding-top: 20px; }
+body { margin: 0; background: var(--base); color: var(--cream); line-height: 1.65; }
+h1, h2, h3, p { margin: 0; }
+a { color: inherit; }
+a:focus-visible, summary:focus-visible { outline: 2px solid #fff0ca; outline-offset: 5px; }
+.shell { width: min(1120px, calc(100% - 56px)); margin-inline: auto; }
+.site-header { border-bottom: 1px solid #253044; }
+.header-inner, .site-footer, .section-title { display: flex; align-items: center; justify-content: space-between; gap: 16px; }
+.header-inner { min-height: 68px; }
+.brand { display: inline-flex; align-items: center; gap: 8px; font-weight: 850; letter-spacing: .09em; text-decoration: none; white-space: nowrap; }
+.brand-suit { color: var(--gold); font-size: 1.32rem; }
+.play-link { display: inline-flex; align-items: center; justify-content: center; min-height: 44px; padding: 0 16px; border: 1px solid #4e473a; border-radius: 6px; font-size: .875rem; font-weight: 700; color: var(--gold); text-decoration: none; }
+.play-link:hover { border-color: var(--gold); background: #e9bd7515; }
+.hero { position: relative; overflow: hidden; margin-top: 30px; border: 1px solid #514330; border-radius: 14px; background: #131a28; }
+.hero img { display: block; width: 100%; height: auto; aspect-ratio: 3; object-fit: cover; }
+.hero-copy { position: relative; padding: clamp(22px, 3.6vw, 43px); border-top: 1px solid #4a3f2e; background: radial-gradient(ellipse at 0% 0%, #211e23, #121a29 64%); }
+.hero h1 { font-size: clamp(.875rem, 1.4vw, 1rem); color: var(--gold); font-weight: 750; }
+.tagline { margin-top: 6px; font-size: clamp(1.6rem, 4.4vw, 3.12rem); line-height: 1.26; font-family: Georgia, "Yu Mincho", "Hiragino Mincho ProN", serif; font-weight: 800; letter-spacing: -.035em; text-wrap: balance; }
+.hero-links { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 21px; }
+.jump { display: inline-flex; align-items: center; justify-content: center; min-height: 44px; padding: 0 16px; border: 1px solid #56627a; border-radius: 6px; color: #eaf1ff; text-decoration: none; font-size: .9375rem; font-weight: 750; }
+.jump:hover { border-color: #bbcee9; background: #29364b; }
+.jump.primary, .mail-button { border-color: transparent; background: var(--gold); color: #241807; }
+.jump.primary:hover, .mail-button:hover { background: #ffdb9c; }
+.offers { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px; margin-top: 28px; align-items: stretch; }
+.offer { --accent: var(--blue); --badge: #22324b; padding: clamp(18px, 2.8vw, 28px); border: 1px solid var(--line); border-radius: 12px; background: var(--surface); }
+.offer.sponsorship { --accent: var(--gold); --badge: #392f22; }
+.offer h2 { color: var(--accent); font-size: clamp(1.28rem, 2.45vw, 1.8rem); }
+.offer-list { list-style: none; margin: 12px 0 0; padding: 0; }
+.offer-list li { display: grid; grid-template-columns: 42px minmax(0, 1fr); align-items: start; gap: 13px; padding: 14px 0; border-top: 1px solid var(--line); }
+.offer-list li:last-child { padding-bottom: 2px; }
+.icon { display: grid; place-items: center; width: 42px; height: 42px; border-radius: 8px; background: var(--badge); color: var(--accent); font: 1.16rem/1 system-ui, sans-serif; }
+.offer h3 { color: var(--cream); font-size: 1rem; line-height: 1.45; font-weight: 800; }
+.offer-list p { margin-top: 3px; font-size: .9375rem; line-height: 1.55; color: var(--muted); }
+.terms { margin-top: 15px; border-block: 1px solid #2d3749; }
+.terms summary { padding: 13px 10px; color: var(--gold); cursor: pointer; font-size: .9375rem; font-weight: 750; }
+.terms p { padding: 1px 10px 15px; max-width: 82ch; color: var(--muted); }
+.contact { display: grid; grid-template-columns: minmax(0, 1.2fr) minmax(0, .8fr); align-items: center; gap: clamp(14px, 3vw, 35px); margin-top: 28px; padding: clamp(20px, 3.5vw, 36px); border: 1px solid #5c4b34; border-radius: 12px; background: linear-gradient(115deg, #221f24, #141e30); }
+.contact h2 { font-size: clamp(1.35rem, 2.6vw, 1.85rem); }
+.contact p { color: var(--muted); margin-top: 6px; }
+.contact-actions { min-width: 0; }
+.mail-button { display: flex; min-height: 49px; align-items: center; justify-content: center; padding: 7px 14px; border-radius: 6px; font-weight: 850; text-decoration: none; }
+.contact-actions p { font-size: .875rem; overflow-wrap: anywhere; }
+.contact a:not(.mail-button) { color: #f6d698; text-underline-offset: .2em; }
+.site-footer { align-items: baseline; flex-wrap: wrap; padding-block: 26px 30px; margin-top: 23px; border-top: 1px solid #273144; color: var(--muted); font-size: .875rem; }
+.footer-links { display: flex; flex-wrap: wrap; gap: 4px 16px; }
+.footer-links a { display: inline-flex; align-items: center; min-height: 32px; text-underline-offset: .2em; }
+@media (max-width: 740px) {
+  .shell { width: calc(100% - 36px); }
+  .header-inner { min-height: 58px; }
+  .hero { margin-top: 18px; }
+  .offers, .contact { grid-template-columns: minmax(0, 1fr); }
+  .offers { gap: 12px; margin-top: 18px; }
+  .contact { margin-top: 20px; }
+}
+@media (max-width: 355px) {
+  .shell { width: calc(100% - 24px); }
+  .brand { font-size: .875rem; }
+  .play-link, .jump { padding-inline: 10px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+}
