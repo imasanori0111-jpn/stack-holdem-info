@@ -73,3 +73,8 @@ a:focus-visible, summary:focus-visible { outline: 2px solid #fff0ca; outline-off
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
 }
+
+.contact-actions { display: grid; gap: 10px; }
+.mail-button.mail-alt { background: transparent; color: #f6d698; border: 1px solid #c9a35f; cursor: pointer; font: inherit; font-weight: 800; }
+.mail-button.mail-alt:hover { background: #f6d69814; }
+.mail-note { font-size: 13px; color: #b7bfca; }
