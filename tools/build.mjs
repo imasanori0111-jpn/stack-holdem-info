@@ -117,7 +117,7 @@ function storesBody(data) {
     return inner ? `<section class="region" data-region="${region}"><h2>${region}</h2>${inner}</section>` : "";
   }).join("\n");
   return `
-<div class="note blue">掲載している情報は、各店の公式サイト・公式SNSなどの公開情報をもとに、${esc(checked)} に確認したものです。<strong>営業時間・料金・イベントは変わることがあるので、お出かけの前に必ず各店の公式情報をご確認ください。</strong>掲載の追加・修正・削除のご依頼は、<a href="https://forms.gle/eThkuMAMHq4MTBRWA" rel="noopener" target="_blank">お問い合わせフォーム</a>から受け付けています。</div>
+<div class="note blue">掲載している情報は、各店の公式サイト・公式SNSや、ポーカーの情報サイトなどの公開情報をもとに、${esc(checked)} にまとめたものです。<strong>閉店・移転・店名の変更をしていることもあります。お出かけの前に、必ず各店の公式情報で営業日・料金をご確認ください。</strong>掲載の追加・修正・削除のご依頼は、<a href="https://forms.gle/eThkuMAMHq4MTBRWA" rel="noopener" target="_blank">お問い合わせフォーム</a>から受け付けています。</div>
 <form class="filters" role="search" onsubmit="return false">
 <label class="q">お店の名前・地名で探す<input id="q" type="search" placeholder="例: 新宿、梅田、天神" autocomplete="off"></label>
 <label>地方<select id="region"><option value="">すべて</option>${regionOptions}</select></label>

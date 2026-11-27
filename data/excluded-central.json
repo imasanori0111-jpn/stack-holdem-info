@@ -1,0 +1,114 @@
+[
+ {
+  "name": "JERRYS POKER",
+  "pref": "大阪府",
+  "city": "大阪市北区",
+  "source": "https://jerryspoker.com/",
+  "reason": "公式サイトに2026年10月18日営業終了と記載"
+ },
+ {
+  "name": "じゃんけんポーカー今池店",
+  "pref": "愛知県",
+  "city": "名古屋市千種区",
+  "source": "https://web.pokerroom634.com/musapo-janken-integration/",
+  "reason": "2026年8月2日に閉店（むさぽの統合案内）"
+ },
+ {
+  "name": "たらればポーカー",
+  "pref": "大阪府",
+  "city": "茨木市",
+  "source": "https://twitter.com/tararebapoker",
+  "reason": "アカウント名が「@閉店」"
+ },
+ {
+  "name": "GAO POKER CLUB",
+  "pref": "愛知県",
+  "city": "名古屋市",
+  "source": "https://x.com/gaopoker",
+  "reason": "閉店のお知らせの投稿あり"
+ },
+ {
+  "name": "Lionem（リオネム）",
+  "pref": "兵庫県",
+  "city": "神戸市中央区",
+  "source": "https://x.com/casinolionem",
+  "reason": "アカウント名が「ポーカーができていたバー」でポーカー終了の可能性"
+ },
+ {
+  "name": "Faro ～Casino&Dining～",
+  "pref": "兵庫県",
+  "city": "",
+  "source": "https://www.instagram.com/faro_casino/",
+  "reason": "臨時休業中の表示"
+ },
+ {
+  "name": "POKER&CASINO WIN",
+  "pref": "京都府",
+  "city": "京都市",
+  "source": "https://x.com/poker_win_",
+  "reason": "2026年春オープン予定の告知のみで、開店を確認できず"
+ },
+ {
+  "name": "じゃんけんポーカー岡崎店",
+  "pref": "愛知県",
+  "city": "岡崎市",
+  "source": "https://web.pokerroom634.com/musapo-janken-integration/",
+  "reason": "統合対象の店舗として名前はあるが、店舗の公式アカウント・住所を確認できず（12月にむさぽへ変更予定）"
+ },
+ {
+  "name": "新潟ギルド",
+  "pref": "新潟県",
+  "city": "新潟市",
+  "source": "https://x.com/niigataguild",
+  "reason": "確認できた投稿が数年前のもので、現在の営業が不明"
+ },
+ {
+  "name": "WHALE SHARKS 甲府",
+  "pref": "山梨県",
+  "city": "甲府市",
+  "source": "https://x.com/ws_kofu",
+  "reason": "掲載が古く、現在の営業が不明"
+ },
+ {
+  "name": "KING♤HIGH",
+  "pref": "和歌山県",
+  "city": "和歌山市",
+  "source": "https://x.com/KINGHIG421",
+  "reason": "2022年の投稿しか確認できず"
+ },
+ {
+  "name": "NEKOKAJI OSAKA",
+  "pref": "大阪府",
+  "city": "大阪市北区",
+  "source": "https://x.com/nekokaji_osaka/status/1797861414956347475",
+  "reason": "開店告知は確認したが、現在の営業を確認できず"
+ },
+ {
+  "name": "AKpoker 浜松店",
+  "pref": "静岡県",
+  "city": "浜松市",
+  "source": "https://x.com/AKpoker_bar",
+  "reason": "2024年の投稿のみで現在の営業が不明"
+ },
+ {
+  "name": "Poker House Pot Over 京橋店",
+  "pref": "大阪府",
+  "city": "大阪市都島区",
+  "source": "https://x.com/pokerpotover",
+  "reason": "2026年8〜9月開店予定とされ、開店日の記載が食い違う"
+ },
+ {
+  "name": "KYOBASHIPOKERNIGHT",
+  "pref": "大阪府",
+  "city": "大阪市",
+  "source": "https://www.instagram.com/kyobashipokernight/",
+  "reason": "常設店ではなく、バーで開くポーカーの催し"
+ },
+ {
+  "name": "長野でポーカーですが / フジポーカークラブ / ポーカーポーカー（一宮）",
+  "pref": "",
+  "city": "",
+  "source": "https://x.com/pokerdesuga",
+  "reason": "店舗ではなく、愛好者の団体・催し"
+ }
+]
