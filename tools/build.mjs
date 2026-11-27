@@ -126,7 +126,7 @@ function storesBody(data) {
 <p class="count" id="count" aria-live="polite">${stores.length} 店を掲載しています</p>
 ${sections}
 <p class="empty" id="empty" hidden>条件に合うお店が見つかりませんでした。地名を短くするか、地方・都道府県を「すべて」にしてください。</p>
-<div class="note">アミューズメントカジノは、チップを現金や景品に換えない「遊び」の場です。チップや得点を換金・景品交換するお店は違法になるおそれがあります。このページはお店を紹介するだけで、各店の営業内容を保証するものではありません。</div>
+<section class="note" id="policy" aria-labelledby="policy-title"><strong id="policy-title">掲載の基準</strong><br>アミューズメントカジノは、チップを現金や景品に換えない「遊び」の場です。このページには、次の条件を満たすお店だけを載せています。<br>・営業していることを、公式サイト、日本ポーカー事業者連盟(JPBA)の加盟店一覧、ポーカーの情報サイトのいずれかで確かめられた<br>・お店や紹介のページに、換金・景品交換・賞金などをうかがわせる記載がない<br>掲載はお店の営業内容や法令への適合を保証するものではありません。チップの換金や景品との交換をすすめられたら、遊ぶのをやめてください。</section>
 <script>
 (() => {
   const q = document.getElementById("q"), rg = document.getElementById("region"), pf = document.getElementById("pref");

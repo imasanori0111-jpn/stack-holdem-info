@@ -10,8 +10,9 @@
    "url": "https://x.com/sapporokingsman",
    "source": "https://akr6106027465.owst.jp/",
    "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "casino-deck"
+   ]
   },
   {
    "name": "カジスポ札幌（CASINO SPORTS SAPPORO）",
@@ -22,8 +23,12 @@
    "url": "https://casi-spo.com/",
    "source": "https://casi-spo.com/",
    "note": "",
-   "confidence": "medium",
-   "research": "住所は比較サイトのみで確認（南4条西4丁目）"
+   "checkedBy": [
+    "jpba",
+    "url:casi-spo.com",
+    "source:casi-spo.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "BLOW すすきの",
@@ -34,8 +39,10 @@
    "url": "",
    "source": "https://www.casinosavenue.com/en/casino/blow-casino-susukino-hokkaido/10306",
    "note": "",
-   "confidence": "medium",
-   "research": "公式サイト未確認。住所は複数の紹介サイトで一致"
+   "checkedBy": [
+    "jpba",
+    "casino-deck"
+   ]
   },
   {
    "name": "Poker Lounge \"Thoth\"",
@@ -46,8 +53,11 @@
    "url": "https://r.gnavi.co.jp/58bc6ua40000/",
    "source": "https://r.gnavi.co.jp/58bc6ua40000/",
    "note": "",
-   "confidence": "medium",
-   "research": "住所の表記がサイトにより異なるため空欄"
+   "checkedBy": [
+    "jpba",
+    "url:r.gnavi.co.jp",
+    "source:r.gnavi.co.jp"
+   ]
   },
   {
    "name": "JOKERS Amusement Casino & Bar",
@@ -58,20 +68,10 @@
    "url": "",
    "source": "https://japanpokermap.com/otherregins/hokkaido-sapporo-pokerroom-recommend/",
    "note": "",
-   "confidence": "medium",
-   "research": "紹介サイトのみ。公式未確認"
-  },
-  {
-   "name": "ポーカークラブKINGSMAN 旭川店",
-   "pref": "北海道",
-   "city": "旭川市",
-   "area": "3条通7丁目",
-   "address": "",
-   "url": "https://asahikawa-de.asoba-night.jp/shops/kingsman/",
-   "source": "https://asahikawa-de.asoba-night.jp/shops/kingsman/",
-   "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "jpba",
+    "casino-deck"
+   ]
   },
   {
    "name": "ポーカークラブ キングスマン 帯広店",
@@ -82,8 +82,11 @@
    "url": "https://www.hotpepper.jp/strJ003366556/",
    "source": "https://www.hotpepper.jp/strJ003366556/",
    "note": "",
-   "confidence": "medium",
-   "research": "グルメサイトの掲載のみ"
+   "checkedBy": [
+    "url:www.hotpepper.jp",
+    "source:www.hotpepper.jp",
+    "casino-deck"
+   ]
   },
   {
    "name": "アミューズメントカジノ 8Quads",
@@ -94,8 +97,9 @@
    "url": "https://8quads.com/",
    "source": "https://8quads.com/",
    "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "casino-deck"
+   ]
   },
   {
    "name": "ボードゲームスペース ポンポン",
@@ -106,8 +110,10 @@
    "url": "https://x.com/ponponcino",
    "source": "https://casino-deck.com/amusement-casino/ponpon-hachinohe/",
    "note": "ボードゲームとポーカーの店",
-   "confidence": "medium",
-   "research": "ボードゲームとポーカーの店"
+   "checkedBy": [
+    "source:casino-deck.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "HAKU POKER 弘前",
@@ -118,8 +124,12 @@
    "url": "https://casino-deck.com/amusement-casino/haku-poker-hirosaki/",
    "source": "https://casino-deck.com/amusement-casino/haku-poker-hirosaki/",
    "note": "",
-   "confidence": "medium",
-   "research": "ディレクトリのみ"
+   "checkedBy": [
+    "jpba",
+    "url:casino-deck.com",
+    "source:casino-deck.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "TIGERLAND POKER LOUNGE 青森",
@@ -130,8 +140,12 @@
    "url": "https://casino-deck.com/amusement-casino/tigerland-aomori/",
    "source": "https://casino-deck.com/amusement-casino/tigerland-aomori/",
    "note": "",
-   "confidence": "medium",
-   "research": "ディレクトリのみ"
+   "checkedBy": [
+    "jpba",
+    "url:casino-deck.com",
+    "source:casino-deck.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "Poker Bar BLUFF 盛岡",
@@ -142,8 +156,10 @@
    "url": "https://poker-bluff.com/about/",
    "source": "https://poker-bluff.com/about/",
    "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "jpba",
+    "casino-deck"
+   ]
   },
   {
    "name": "MUSASHI POKER ROOM 仙台店",
@@ -154,8 +170,10 @@
    "url": "https://x.com/634poker_sendai",
    "source": "https://www.pokerroom634.com/official/news/store/Sendai/203",
    "note": "",
-   "confidence": "high",
-   "research": "2026年3月に公式で営業時間変更の告知"
+   "checkedBy": [
+    "jpba",
+    "casino-deck"
+   ]
   },
   {
    "name": "9High 仙台店",
@@ -166,8 +184,11 @@
    "url": "https://9high.jp/sendai/",
    "source": "https://x.com/9high_sendai",
    "note": "",
-   "confidence": "high",
-   "research": "2026年11月に5周年イベントを告知"
+   "checkedBy": [
+    "jpba",
+    "url:9high.jp",
+    "casino-deck"
+   ]
   },
   {
    "name": "BACKDOOR SENDAI",
@@ -178,8 +199,10 @@
    "url": "https://backdoor-sendai2025.com/poker1/lp1/",
    "source": "https://www.sentabi.jp/spots/235",
    "note": "",
-   "confidence": "medium",
-   "research": "サイトが公式かは未確認"
+   "checkedBy": [
+    "url:backdoor-sendai2025.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "Amusement Bar DEER GOLD",
@@ -190,8 +213,11 @@
    "url": "https://www.unputenpu0308.com/deergold",
    "source": "https://pokerstarter.jp/miyagi/sendai/amusement-bar-deer-gold/",
    "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "jpba",
+    "url:www.unputenpu0308.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "ROYAL FLAG 仙台",
@@ -202,8 +228,9 @@
    "url": "https://www.instagram.com/royalflag_sendai/",
    "source": "https://light-three.com/sendai-poker/",
    "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "casino-deck"
+   ]
   },
   {
    "name": "アミューズメントBAR BULL VEGAS 国分町店",
@@ -214,8 +241,10 @@
    "url": "https://www.bull-vegas.com/",
    "source": "https://nexus-poker.jp/poker_spot/bullvegaskokubuncho/",
    "note": "",
-   "confidence": "medium",
-   "research": "住所の表記がサイトで揺れるため空欄"
+   "checkedBy": [
+    "url:www.bull-vegas.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "CasinoBarConnector",
@@ -226,8 +255,10 @@
    "url": "https://x.com/Connector_akita",
    "source": "https://casino-deck.com/area/touhoku/",
    "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "source:casino-deck.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "まめでらかじの",
@@ -238,8 +269,9 @@
    "url": "https://mamederacasino.net/",
    "source": "https://mamederacasino.net/",
    "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "casino-deck"
+   ]
   },
   {
    "name": "The Brilliant Space L.O.L. 七日町店",
@@ -250,8 +282,11 @@
    "url": "https://www.instagram.com/l.o.l.poker/",
    "source": "https://casino-deck.com/amusement-casino/lol-nanokamachi/",
    "note": "",
-   "confidence": "medium",
-   "research": "公式XはX @LOLTexasHoldem"
+   "checkedBy": [
+    "jpba",
+    "source:casino-deck.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "アミューズメントポーカー Brave",
@@ -262,8 +297,11 @@
    "url": "https://www.pokerbarbrave.com/",
    "source": "https://www.gurutto-iwaki.com/gurutto-feature/newopen/news/news-936888.html",
    "note": "2026年2月20日オープン",
-   "confidence": "high",
-   "research": "2026年2月20日オープン"
+   "checkedBy": [
+    "jpba",
+    "url:www.pokerbarbrave.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "Bar Ace",
@@ -274,8 +312,12 @@
    "url": "https://barace.foodre.jp/",
    "source": "https://casino-deck.com/amusement-casino/bar-ace-iwaki/",
    "note": "ダーツ・ポーカーのバー",
-   "confidence": "medium",
-   "research": "ダーツ・ポーカーのバー"
+   "checkedBy": [
+    "jpba",
+    "url:barace.foodre.jp",
+    "source:casino-deck.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "カジノ Bar Alice",
@@ -286,8 +328,10 @@
    "url": "https://x.com/casinobaralice",
    "source": "https://alice-iwaki.com/",
    "note": "",
-   "confidence": "medium",
-   "research": "公式サイトに旧住所が残るとの情報あり。住所は空欄"
+   "checkedBy": [
+    "jpba",
+    "casino-deck"
+   ]
   },
   {
    "name": "Amusement Casino ALL CHAM",
@@ -298,8 +342,11 @@
    "url": "",
    "source": "https://casino-deck.com/area/fukushima/",
    "note": "",
-   "confidence": "medium",
-   "research": "ディレクトリのみ"
+   "checkedBy": [
+    "jpba",
+    "source:casino-deck.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "Extreme Bar BACKDOOR 水戸店",
@@ -310,20 +357,11 @@
    "url": "https://mito.backdoor.casino/",
    "source": "https://pokerfans.jp/?clubId=3602&_lang=ja",
    "note": "",
-   "confidence": "medium",
-   "research": ""
-  },
-  {
-   "name": "つくぽか",
-   "pref": "茨城県",
-   "city": "つくば市",
-   "area": "天久保",
-   "address": "茨城県つくば市天久保3丁目5-3 フレグランスつくば2F Has-key内",
-   "url": "https://www.tsukuba-poker.com/",
-   "source": "https://aricheki.com/shop/5516/",
-   "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "jpba",
+    "url:mito.backdoor.casino",
+    "casino-deck"
+   ]
   },
   {
    "name": "Extreme Bar BACKDOOR 宇都宮店",
@@ -334,8 +372,12 @@
    "url": "https://utsunomiya.backdoor.casino/",
    "source": "https://utsunomiya.backdoor.casino/access",
    "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "jpba",
+    "url:utsunomiya.backdoor.casino",
+    "source:utsunomiya.backdoor.casino",
+    "casino-deck"
+   ]
   },
   {
    "name": "カジノCafe 宇都宮",
@@ -346,8 +388,10 @@
    "url": "https://x.com/cafe12296399",
    "source": "https://casino-deck.com/amusement-casino/casino-cafe-utsunomiya/",
    "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "source:casino-deck.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "DoubleBarrel宇都宮",
@@ -358,8 +402,9 @@
    "url": "https://x.com/doubleburrel_u",
    "source": "https://my.beyond-ss.com/pokerroom-utsunomiya/",
    "note": "",
-   "confidence": "medium",
-   "research": "最近の活動は未確認"
+   "checkedBy": [
+    "casino-deck"
+   ]
   },
   {
    "name": "BAR TENGO",
@@ -370,8 +415,12 @@
    "url": "https://105-poker.com/",
    "source": "https://105-poker.com/",
    "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "jpba",
+    "url:105-poker.com",
+    "source:105-poker.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "ACES 高崎",
@@ -382,8 +431,9 @@
    "url": "https://x.com/AcesTakasaki",
    "source": "https://x.com/AcesTakasaki",
    "note": "2024年3月オープン",
-   "confidence": "medium",
-   "research": "2024年3月オープン"
+   "checkedBy": [
+    "casino-deck"
+   ]
   },
   {
    "name": "Aces 太田",
@@ -394,8 +444,10 @@
    "url": "",
    "source": "https://casino-deck.com/area/gunma/",
    "note": "",
-   "confidence": "medium",
-   "research": "ディレクトリのみ"
+   "checkedBy": [
+    "source:casino-deck.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "ポーカールーム PreFlop 大宮店",
@@ -406,8 +458,10 @@
    "url": "https://x.com/PreFlopOOMIYA",
    "source": "https://casino-deck.com/amusement-casino/preflop-omiya/",
    "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "source:casino-deck.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "丁半居酒屋 盆常",
@@ -418,8 +472,11 @@
    "url": "https://bonjo.bar/",
    "source": "https://bonjo.bar/",
    "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "url:bonjo.bar",
+    "source:bonjo.bar",
+    "casino-deck"
+   ]
   },
   {
    "name": "アミューズメントバー D.P.S 大宮店",
@@ -430,8 +487,10 @@
    "url": "https://stick-ps.co.jp/shop/dps-omiya/",
    "source": "https://stick-ps.co.jp/shop/dps-omiya/",
    "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "url:stick-ps.co.jp",
+    "source:stick-ps.co.jp"
+   ]
   },
   {
    "name": "POKER BAR Ace 浦和店",
@@ -442,8 +501,12 @@
    "url": "https://pokerbar-ace.com/",
    "source": "https://pokerbar-ace.com/",
    "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "jpba",
+    "url:pokerbar-ace.com",
+    "source:pokerbar-ace.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "POKER BAR Ace 所沢プロペ通り店",
@@ -454,8 +517,10 @@
    "url": "https://x.com/ace_tokorozawa",
    "source": "https://pokerbar-ace.com/",
    "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "jpba",
+    "source:pokerbar-ace.com"
+   ]
   },
   {
    "name": "UP TO POKER 川越店",
@@ -466,8 +531,9 @@
    "url": "https://x.com/uptopoker",
    "source": "https://x.com/uptopoker",
    "note": "",
-   "confidence": "high",
-   "research": "2026年11月オープン（公式X）"
+   "checkedBy": [
+    "jpba"
+   ]
   },
   {
    "name": "SANCTUARY 松戸店",
@@ -478,8 +544,11 @@
    "url": "https://www.sanctuary-matsudo.com/",
    "source": "https://www.sanctuary-matsudo.com/",
    "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "url:www.sanctuary-matsudo.com",
+    "source:www.sanctuary-matsudo.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "Poker Bar AESIR",
@@ -490,8 +559,11 @@
    "url": "https://x.com/pokerbaraesir",
    "source": "https://casino-deck.com/amusement-casino/poker-bar-aesir-chiba/",
    "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "jpba",
+    "source:casino-deck.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "THE TOP POKER ROOM",
@@ -502,8 +574,10 @@
    "url": "https://x.com/THETOPPOKER",
    "source": "https://x.com/THETOPPOKER/status/1888674506291752992",
    "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "jpba",
+    "casino-deck"
+   ]
   },
   {
    "name": "Amusement Casino Bar Kick it",
@@ -514,8 +588,10 @@
    "url": "",
    "source": "https://my.beyond-ss.com/pokerroom-chiba/",
    "note": "",
-   "confidence": "medium",
-   "research": "紹介サイトのみ"
+   "checkedBy": [
+    "jpba",
+    "casino-deck"
+   ]
   },
   {
    "name": "KINGS Amusement casino 柏店",
@@ -526,8 +602,10 @@
    "url": "",
    "source": "https://my.beyond-ss.com/pokerroom-chiba/",
    "note": "",
-   "confidence": "medium",
-   "research": "紹介サイトのみ"
+   "checkedBy": [
+    "jpba",
+    "casino-deck"
+   ]
   },
   {
    "name": "GOAT",
@@ -538,8 +616,10 @@
    "url": "",
    "source": "https://japanopenpoker.com/rooms/",
    "note": "",
-   "confidence": "medium",
-   "research": "JOPTの店舗一覧に掲載"
+   "checkedBy": [
+    "source:japanopenpoker.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "OJARUMARU",
@@ -550,8 +630,10 @@
    "url": "",
    "source": "https://japanopenpoker.com/rooms/",
    "note": "",
-   "confidence": "medium",
-   "research": "JOPTの店舗一覧に掲載"
+   "checkedBy": [
+    "source:japanopenpoker.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "good speed poker 津田沼",
@@ -562,8 +644,10 @@
    "url": "",
    "source": "https://japanopenpoker.com/rooms/",
    "note": "",
-   "confidence": "medium",
-   "research": "JOPTの店舗一覧に掲載"
+   "checkedBy": [
+    "jpba",
+    "source:japanopenpoker.com"
+   ]
   },
   {
    "name": "横浜ポーカーBar GOLD JOKER 関内店",
@@ -574,8 +658,12 @@
    "url": "https://goldjoker.jp/kannai/",
    "source": "https://goldjoker.jp/kannai/",
    "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "jpba",
+    "url:goldjoker.jp",
+    "source:goldjoker.jp",
+    "casino-deck"
+   ]
   },
   {
    "name": "横浜ポーカーBar GOLD JOKER 相模原店",
@@ -586,8 +674,10 @@
    "url": "https://x.com/GOLDJOKERTREBOL",
    "source": "https://x.com/GOLDJOKERTREBOL",
    "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "jpba",
+    "casino-deck"
+   ]
   },
   {
    "name": "横浜ポーカーBar GOLD JOKER 本厚木店",
@@ -598,8 +688,12 @@
    "url": "https://goldjoker.jp/atsugi/",
    "source": "https://goldjoker.jp/atsugi/",
    "note": "2026年オープン",
-   "confidence": "high",
-   "research": "2026年オープン"
+   "checkedBy": [
+    "jpba",
+    "url:goldjoker.jp",
+    "source:goldjoker.jp",
+    "casino-deck"
+   ]
   },
   {
    "name": "m HOLD'EM 馬車道",
@@ -610,8 +704,9 @@
    "url": "https://x.com/m_holdem_basha",
    "source": "https://prtimes.jp/main/html/rd/p/000000101.000096065.html",
    "note": "2026年4月28日オープン",
-   "confidence": "high",
-   "research": "2026年4月28日オープン"
+   "checkedBy": [
+    "casino-deck"
+   ]
   },
   {
    "name": "Family Pot YOKOHAMA",
@@ -622,8 +717,9 @@
    "url": "",
    "source": "https://aumo.jp/articles/3632433",
    "note": "横浜関内セルテ6F",
-   "confidence": "medium",
-   "research": "紹介記事のみ。横浜関内セルテ6F"
+   "checkedBy": [
+    "casino-deck"
+   ]
   },
   {
    "name": "AZ POKER ROOM",
@@ -634,8 +730,12 @@
    "url": "https://www.hotpepper.jp/strJ003851080/",
    "source": "https://www.hotpepper.jp/strJ003851080/map/",
    "note": "",
-   "confidence": "medium",
-   "research": "グルメサイトの掲載のみ"
+   "checkedBy": [
+    "jpba",
+    "url:www.hotpepper.jp",
+    "source:www.hotpepper.jp",
+    "casino-deck"
+   ]
   },
   {
    "name": "Live Ace 横浜",
@@ -646,8 +746,10 @@
    "url": "http://live-ace.site/",
    "source": "https://casinojapan-inc.jp/store-liveace/",
    "note": "",
-   "confidence": "medium",
-   "research": "住所の表記が揺れるため空欄"
+   "checkedBy": [
+    "jpba",
+    "casino-deck"
+   ]
   },
   {
    "name": "ONAIR YOKOHAMA",
@@ -658,8 +760,9 @@
    "url": "http://onair.yokohama/",
    "source": "https://pokeracademy.jp/spot/onair",
    "note": "Live Aceの姉妹店",
-   "confidence": "medium",
-   "research": "Live Aceの姉妹店"
+   "checkedBy": [
+    "casino-deck"
+   ]
   },
   {
    "name": "パラダイスカジノ 川崎ポーカールーム",
@@ -670,8 +773,9 @@
    "url": "https://x.com/parakajikawasak",
    "source": "https://x.com/parakajikawasak",
    "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "casino-deck"
+   ]
   },
   {
    "name": "ポーカールーム PreFlop 川崎店",
@@ -682,8 +786,9 @@
    "url": "https://x.com/PreFlopKAWASAKI",
    "source": "https://x.com/PreFlopKAWASAKI",
    "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "casino-deck"
+   ]
   },
   {
    "name": "BIG SLICK POKER 川崎",
@@ -694,8 +799,12 @@
    "url": "https://bigslickpoker.wixsite.com/home",
    "source": "https://bigslickpoker.wixsite.com/home",
    "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "jpba",
+    "url:bigslickpoker.wixsite.com",
+    "source:bigslickpoker.wixsite.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "Chill Poker 川崎",
@@ -706,8 +815,12 @@
    "url": "https://www.japanshishatimes.jp/shishacafe/chill-poker-kawasaki",
    "source": "https://www.japanshishatimes.jp/shishacafe/chill-poker-kawasaki",
    "note": "シーシャとポーカーの店",
-   "confidence": "medium",
-   "research": "シーシャとポーカーの店"
+   "checkedBy": [
+    "jpba",
+    "url:www.japanshishatimes.jp",
+    "source:www.japanshishatimes.jp",
+    "casino-deck"
+   ]
   },
   {
    "name": "ALBERTO ポーカースペース",
@@ -718,8 +831,11 @@
    "url": "https://albertoshonan.com/",
    "source": "https://albertoshonan.com/",
    "note": "2025年9月オープン",
-   "confidence": "medium",
-   "research": "2025年9月オープン"
+   "checkedBy": [
+    "url:albertoshonan.com",
+    "source:albertoshonan.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "ROOTS SHIBUYA",
@@ -730,20 +846,12 @@
    "url": "https://roots-poker.com/poker-rooms",
    "source": "https://roots-poker.com/poker-rooms",
    "note": "",
-   "confidence": "high",
-   "research": "2026年6月に5周年（運営 株式会社POKER ROOM）"
-  },
-  {
-   "name": "GoodGame Poker Live 渋谷",
-   "pref": "東京都",
-   "city": "渋谷区",
-   "area": "渋谷",
-   "address": "東京都渋谷区宇田川町12-9 JouLe SHIBUYA 10F",
-   "url": "https://ggpokerlive.jp/tokyo/",
-   "source": "https://ggpokerlive.jp/tokyo/",
-   "note": "通称 GGPL渋谷",
-   "confidence": "high",
-   "research": "通称 GGPL渋谷。JPBA加盟店舗一覧にも掲載"
+   "checkedBy": [
+    "jpba",
+    "url:roots-poker.com",
+    "source:roots-poker.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "GoodGame Poker Live 新宿",
@@ -754,8 +862,12 @@
    "url": "https://ggpokerlive.jp/shinjuku/",
    "source": "https://ggpokerlive.jp/shinjuku/",
    "note": "通称 GGPL新宿",
-   "confidence": "high",
-   "research": "通称 GGPL新宿。JPBA加盟店舗一覧にも掲載"
+   "checkedBy": [
+    "jpba",
+    "url:ggpokerlive.jp",
+    "source:ggpokerlive.jp",
+    "casino-deck"
+   ]
   },
   {
    "name": "GiGO POKER新宿",
@@ -766,8 +878,10 @@
    "url": "https://edge.gigo.co.jp/poker/",
    "source": "https://www.appbank.net/2026/02/02/iphone-news/2920674.php",
    "note": "",
-   "confidence": "high",
-   "research": "GENDA GiGO Entertainment運営。旧FLIPSと同じ場所（改称は公式発表で未確認）"
+   "checkedBy": [
+    "url:edge.gigo.co.jp",
+    "casino-deck"
+   ]
   },
   {
    "name": "GiGO POKER新宿西口",
@@ -778,8 +892,11 @@
    "url": "https://edge.gigo.co.jp/poker/shop/shinjuku-nishiguchi",
    "source": "https://edge.gigo.co.jp/poker/shop/shinjuku-nishiguchi",
    "note": "2026年2月3日オープン",
-   "confidence": "high",
-   "research": "2026年2月3日オープン"
+   "checkedBy": [
+    "url:edge.gigo.co.jp",
+    "source:edge.gigo.co.jp",
+    "casino-deck"
+   ]
   },
   {
    "name": "池袋VEGAS",
@@ -790,8 +907,9 @@
    "url": "https://ikebukurovegas.com/",
    "source": "https://ikebukurovegas.com/noneaccess___contact/",
    "note": "",
-   "confidence": "high",
-   "research": "表記は「池袋ベガス」とも"
+   "checkedBy": [
+    "casino-deck"
+   ]
   },
   {
    "name": "Ocean's NEON",
@@ -802,8 +920,11 @@
    "url": "",
    "source": "https://jpba-poker.com/member-stores/",
    "note": "",
-   "confidence": "medium",
-   "research": "JPBA（日本ポーカー事業者連盟）加盟店舗一覧に掲載"
+   "checkedBy": [
+    "jpba",
+    "source:jpba-poker.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "Casino Live Tokyo",
@@ -814,8 +935,11 @@
    "url": "",
    "source": "https://jpba-poker.com/member-stores/",
    "note": "通称 CLT",
-   "confidence": "medium",
-   "research": "JPBA（日本ポーカー事業者連盟）加盟店舗一覧に掲載。通称 CLT"
+   "checkedBy": [
+    "jpba",
+    "source:jpba-poker.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "ガットショット高田馬場",
@@ -826,8 +950,11 @@
    "url": "",
    "source": "https://jpba-poker.com/member-stores/",
    "note": "",
-   "confidence": "medium",
-   "research": "JPBA（日本ポーカー事業者連盟）加盟店舗一覧に掲載"
+   "checkedBy": [
+    "jpba",
+    "source:jpba-poker.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "KKLIVE POKER SHINJUKU",
@@ -838,8 +965,11 @@
    "url": "",
    "source": "https://jpba-poker.com/member-stores/",
    "note": "",
-   "confidence": "medium",
-   "research": "JPBA（日本ポーカー事業者連盟）加盟店舗一覧に掲載（JOPTの一覧では9Fの表記あり）"
+   "checkedBy": [
+    "jpba",
+    "source:jpba-poker.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "NEKOKAJI新宿本店",
@@ -850,8 +980,10 @@
    "url": "",
    "source": "https://jpba-poker.com/member-stores/",
    "note": "",
-   "confidence": "medium",
-   "research": "JPBA（日本ポーカー事業者連盟）加盟店舗一覧に掲載（別の情報サイトでは住所が異なる）"
+   "checkedBy": [
+    "jpba",
+    "source:jpba-poker.com"
+   ]
   },
   {
    "name": "BUBBLE歌舞伎町店",
@@ -862,8 +994,11 @@
    "url": "",
    "source": "https://jpba-poker.com/member-stores/",
    "note": "",
-   "confidence": "medium",
-   "research": "JPBA（日本ポーカー事業者連盟）加盟店舗一覧に掲載"
+   "checkedBy": [
+    "jpba",
+    "source:jpba-poker.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "pukupuku NEON",
@@ -874,8 +1009,11 @@
    "url": "",
    "source": "https://jpba-poker.com/member-stores/",
    "note": "",
-   "confidence": "medium",
-   "research": "JPBA（日本ポーカー事業者連盟）加盟店舗一覧に掲載"
+   "checkedBy": [
+    "jpba",
+    "source:jpba-poker.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "EGP EBISU",
@@ -886,8 +1024,11 @@
    "url": "",
    "source": "https://jpba-poker.com/member-stores/",
    "note": "",
-   "confidence": "medium",
-   "research": "JPBA（日本ポーカー事業者連盟）加盟店舗一覧に掲載"
+   "checkedBy": [
+    "jpba",
+    "source:jpba-poker.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "casa渋谷",
@@ -898,8 +1039,11 @@
    "url": "",
    "source": "https://jpba-poker.com/member-stores/",
    "note": "",
-   "confidence": "medium",
-   "research": "JPBA（日本ポーカー事業者連盟）加盟店舗一覧に掲載"
+   "checkedBy": [
+    "jpba",
+    "source:jpba-poker.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "KKLIVE POKER SHIBUYA",
@@ -910,8 +1054,11 @@
    "url": "",
    "source": "https://jpba-poker.com/member-stores/",
    "note": "",
-   "confidence": "medium",
-   "research": "JPBA（日本ポーカー事業者連盟）加盟店舗一覧に掲載"
+   "checkedBy": [
+    "jpba",
+    "source:jpba-poker.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "SHIBUYA de Poker",
@@ -922,8 +1069,11 @@
    "url": "",
    "source": "https://jpba-poker.com/member-stores/",
    "note": "",
-   "confidence": "medium",
-   "research": "JPBA（日本ポーカー事業者連盟）加盟店舗一覧に掲載"
+   "checkedBy": [
+    "jpba",
+    "source:jpba-poker.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "BUBBLE恵比寿店",
@@ -934,8 +1084,11 @@
    "url": "",
    "source": "https://jpba-poker.com/member-stores/",
    "note": "",
-   "confidence": "medium",
-   "research": "JPBA（日本ポーカー事業者連盟）加盟店舗一覧に掲載"
+   "checkedBy": [
+    "jpba",
+    "source:jpba-poker.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "NINE THREE 新橋店",
@@ -946,8 +1099,11 @@
    "url": "",
    "source": "https://jpba-poker.com/member-stores/",
    "note": "",
-   "confidence": "medium",
-   "research": "JPBA（日本ポーカー事業者連盟）加盟店舗一覧に掲載"
+   "checkedBy": [
+    "jpba",
+    "source:jpba-poker.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "NINE THREE 六本木店",
@@ -958,8 +1114,11 @@
    "url": "",
    "source": "https://jpba-poker.com/member-stores/",
    "note": "",
-   "confidence": "medium",
-   "research": "JPBA（日本ポーカー事業者連盟）加盟店舗一覧に掲載"
+   "checkedBy": [
+    "jpba",
+    "source:jpba-poker.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "BUBBLE赤坂店",
@@ -970,8 +1129,11 @@
    "url": "",
    "source": "https://jpba-poker.com/member-stores/",
    "note": "",
-   "confidence": "medium",
-   "research": "JPBA（日本ポーカー事業者連盟）加盟店舗一覧に掲載"
+   "checkedBy": [
+    "jpba",
+    "source:jpba-poker.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "BUBBLE六本木店",
@@ -982,8 +1144,11 @@
    "url": "",
    "source": "https://jpba-poker.com/member-stores/",
    "note": "",
-   "confidence": "medium",
-   "research": "JPBA（日本ポーカー事業者連盟）加盟店舗一覧に掲載"
+   "checkedBy": [
+    "jpba",
+    "source:jpba-poker.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "アキバギルド",
@@ -994,8 +1159,11 @@
    "url": "",
    "source": "https://jpba-poker.com/member-stores/",
    "note": "",
-   "confidence": "medium",
-   "research": "JPBA（日本ポーカー事業者連盟）加盟店舗一覧に掲載"
+   "checkedBy": [
+    "jpba",
+    "source:jpba-poker.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "秋葉原カジノクエスト",
@@ -1006,8 +1174,11 @@
    "url": "",
    "source": "https://jpba-poker.com/member-stores/",
    "note": "",
-   "confidence": "medium",
-   "research": "JPBA（日本ポーカー事業者連盟）加盟店舗一覧に掲載"
+   "checkedBy": [
+    "jpba",
+    "source:jpba-poker.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "OCEANS",
@@ -1018,20 +1189,11 @@
    "url": "",
    "source": "https://jpba-poker.com/member-stores/",
    "note": "",
-   "confidence": "medium",
-   "research": "JPBA（日本ポーカー事業者連盟）加盟店舗一覧に掲載"
-  },
-  {
-   "name": "はちらぼ☆",
-   "pref": "東京都",
-   "city": "中央区",
-   "area": "入船",
-   "address": "東京都中央区入船1-6-3",
-   "url": "",
-   "source": "https://jpba-poker.com/member-stores/",
-   "note": "",
-   "confidence": "medium",
-   "research": "JPBA（日本ポーカー事業者連盟）加盟店舗一覧に掲載"
+   "checkedBy": [
+    "jpba",
+    "source:jpba-poker.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "ガットショット湯島",
@@ -1042,8 +1204,10 @@
    "url": "",
    "source": "https://jpba-poker.com/member-stores/",
    "note": "",
-   "confidence": "medium",
-   "research": "JPBA（日本ポーカー事業者連盟）加盟店舗一覧に掲載"
+   "checkedBy": [
+    "jpba",
+    "source:jpba-poker.com"
+   ]
   },
   {
    "name": "casa上野",
@@ -1054,8 +1218,11 @@
    "url": "",
    "source": "https://jpba-poker.com/member-stores/",
    "note": "",
-   "confidence": "medium",
-   "research": "JPBA（日本ポーカー事業者連盟）加盟店舗一覧に掲載"
+   "checkedBy": [
+    "jpba",
+    "source:jpba-poker.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "ガットショット池之端店",
@@ -1066,8 +1233,10 @@
    "url": "",
    "source": "https://jpba-poker.com/member-stores/",
    "note": "",
-   "confidence": "medium",
-   "research": "JPBA（日本ポーカー事業者連盟）加盟店舗一覧に掲載"
+   "checkedBy": [
+    "jpba",
+    "source:jpba-poker.com"
+   ]
   },
   {
    "name": "PokerLeague五反田",
@@ -1078,8 +1247,11 @@
    "url": "",
    "source": "https://jpba-poker.com/member-stores/",
    "note": "",
-   "confidence": "medium",
-   "research": "JPBA（日本ポーカー事業者連盟）加盟店舗一覧に掲載"
+   "checkedBy": [
+    "jpba",
+    "source:jpba-poker.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "中野TRIGGER",
@@ -1090,8 +1262,11 @@
    "url": "",
    "source": "https://jpba-poker.com/member-stores/",
    "note": "",
-   "confidence": "medium",
-   "research": "JPBA（日本ポーカー事業者連盟）加盟店舗一覧に掲載"
+   "checkedBy": [
+    "jpba",
+    "source:jpba-poker.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "イケブクロギルド",
@@ -1102,8 +1277,12 @@
    "url": "https://page.line.me/635proej",
    "source": "https://jpba-poker.com/member-stores/",
    "note": "",
-   "confidence": "medium",
-   "research": "JPBA（日本ポーカー事業者連盟）加盟店舗一覧に掲載（公式LINEあり）"
+   "checkedBy": [
+    "jpba",
+    "url:page.line.me",
+    "source:jpba-poker.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "zeal池袋",
@@ -1114,8 +1293,10 @@
    "url": "",
    "source": "https://jpba-poker.com/member-stores/",
    "note": "ZEAL AMUSEMENT POKER BAR",
-   "confidence": "medium",
-   "research": "JPBA（日本ポーカー事業者連盟）加盟店舗一覧に掲載。ZEAL AMUSEMENT POKER BAR"
+   "checkedBy": [
+    "jpba",
+    "source:jpba-poker.com"
+   ]
   },
   {
    "name": "BUBBLE池袋店",
@@ -1126,8 +1307,11 @@
    "url": "",
    "source": "https://jpba-poker.com/member-stores/",
    "note": "",
-   "confidence": "medium",
-   "research": "JPBA（日本ポーカー事業者連盟）加盟店舗一覧に掲載"
+   "checkedBy": [
+    "jpba",
+    "source:jpba-poker.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "ENPOKER八王子",
@@ -1138,8 +1322,11 @@
    "url": "",
    "source": "https://jpba-poker.com/member-stores/",
    "note": "",
-   "confidence": "medium",
-   "research": "JPBA（日本ポーカー事業者連盟）加盟店舗一覧に掲載"
+   "checkedBy": [
+    "jpba",
+    "source:jpba-poker.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "ENPOKER町田",
@@ -1150,8 +1337,11 @@
    "url": "",
    "source": "https://jpba-poker.com/member-stores/",
    "note": "",
-   "confidence": "medium",
-   "research": "JPBA（日本ポーカー事業者連盟）加盟店舗一覧に掲載"
+   "checkedBy": [
+    "jpba",
+    "source:jpba-poker.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "Poker Room P3",
@@ -1162,8 +1352,11 @@
    "url": "",
    "source": "https://poker-choice.com/amusement-casino/pokerroom-shibuya/",
    "note": "",
-   "confidence": "medium",
-   "research": "ポーカー情報サイトの一覧（2026年版）に掲載。公式サイト未確認"
+   "checkedBy": [
+    "jpba",
+    "source:poker-choice.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "BLOW 渋谷",
@@ -1174,8 +1367,10 @@
    "url": "",
    "source": "https://poker-choice.com/amusement-casino/pokerroom-shibuya/",
    "note": "",
-   "confidence": "medium",
-   "research": "ポーカー情報サイトの一覧（2026年版）に掲載。公式サイト未確認"
+   "checkedBy": [
+    "source:poker-choice.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "渋谷poker house OSKER",
@@ -1186,8 +1381,10 @@
    "url": "",
    "source": "https://poker-choice.com/amusement-casino/pokerroom-shibuya/",
    "note": "",
-   "confidence": "medium",
-   "research": "ポーカー情報サイトの一覧（2026年版）に掲載。公式サイト未確認"
+   "checkedBy": [
+    "source:poker-choice.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "MUSASHI POKER ROOM",
@@ -1198,8 +1395,11 @@
    "url": "",
    "source": "https://poker-choice.com/amusement-casino/pokerroom-shibuya/",
    "note": "",
-   "confidence": "medium",
-   "research": "ポーカー情報サイトの一覧（2026年版）に掲載。公式サイト未確認"
+   "checkedBy": [
+    "jpba",
+    "source:poker-choice.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "渋谷×Poker シャルル",
@@ -1210,8 +1410,10 @@
    "url": "",
    "source": "https://poker-choice.com/amusement-casino/pokerroom-shibuya/",
    "note": "",
-   "confidence": "medium",
-   "research": "ポーカー情報サイトの一覧（2026年版）に掲載。公式サイト未確認"
+   "checkedBy": [
+    "source:poker-choice.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "Sunrise Of Samurai Poker",
@@ -1222,8 +1424,10 @@
    "url": "",
    "source": "https://poker-choice.com/amusement-casino/pokerroom-shibuya/",
    "note": "通称 SOSPOKER（Dart Collection内）",
-   "confidence": "medium",
-   "research": "ポーカー情報サイトの一覧（2026年版）に掲載。公式サイト未確認。通称 SOSPOKER（Dart Collection内）"
+   "checkedBy": [
+    "jpba",
+    "source:poker-choice.com"
+   ]
   },
   {
    "name": "BARRLE Las Vegas",
@@ -1234,8 +1438,11 @@
    "url": "",
    "source": "https://poker-choice.com/amusement-casino/pokerroom-kabukicho/",
    "note": "",
-   "confidence": "medium",
-   "research": "ポーカー情報サイトの一覧（2026年版）に掲載。公式サイト未確認"
+   "checkedBy": [
+    "jpba",
+    "source:poker-choice.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "新宿HIGE GORILLA",
@@ -1246,8 +1453,10 @@
    "url": "",
    "source": "https://poker-choice.com/amusement-casino/pokerroom-kabukicho/",
    "note": "",
-   "confidence": "medium",
-   "research": "ポーカー情報サイトの一覧（2026年版）に掲載。公式サイト未確認"
+   "checkedBy": [
+    "source:poker-choice.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "Bar BiGBANG",
@@ -1258,8 +1467,11 @@
    "url": "",
    "source": "https://poker-choice.com/amusement-casino/pokerroom-kabukicho/",
    "note": "",
-   "confidence": "medium",
-   "research": "ポーカー情報サイトの一覧（2026年版）に掲載。公式サイト未確認"
+   "checkedBy": [
+    "jpba",
+    "source:poker-choice.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "カジノバー WARUPURU 新宿歌舞伎町",
@@ -1270,8 +1482,10 @@
    "url": "",
    "source": "https://poker-choice.com/amusement-casino/pokerroom-kabukicho/",
    "note": "",
-   "confidence": "medium",
-   "research": "ポーカー情報サイトの一覧（2026年版）に掲載。公式サイト未確認"
+   "checkedBy": [
+    "source:poker-choice.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "BLOW 歌舞伎町",
@@ -1282,8 +1496,11 @@
    "url": "",
    "source": "https://poker-choice.com/amusement-casino/pokerroom-kabukicho/",
    "note": "",
-   "confidence": "medium",
-   "research": "ポーカー情報サイトの一覧（2026年版）に掲載。公式サイト未確認"
+   "checkedBy": [
+    "jpba",
+    "source:poker-choice.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "Mr.DOBERMAN",
@@ -1294,8 +1511,9 @@
    "url": "",
    "source": "https://poker-choice.com/amusement-casino/pokerroom-kabukicho/",
    "note": "",
-   "confidence": "medium",
-   "research": "ポーカー情報サイトの一覧（2026年版）に掲載。公式サイト未確認"
+   "checkedBy": [
+    "source:poker-choice.com"
+   ]
   },
   {
    "name": "六本木HIGEGORILLA",
@@ -1306,8 +1524,9 @@
    "url": "",
    "source": "https://poker-choice.com/amusement-casino/pokerroom-roppongi/",
    "note": "",
-   "confidence": "medium",
-   "research": "ポーカー情報サイトの一覧（2026年版）に掲載。公式サイト未確認"
+   "checkedBy": [
+    "source:poker-choice.com"
+   ]
   },
   {
    "name": "Extreme Bar BACKDOOR 六本木店",
@@ -1318,8 +1537,11 @@
    "url": "",
    "source": "https://poker-choice.com/amusement-casino/pokerroom-roppongi/",
    "note": "",
-   "confidence": "medium",
-   "research": "ポーカー情報サイトの一覧（2026年版）に掲載。公式サイト未確認"
+   "checkedBy": [
+    "jpba",
+    "source:poker-choice.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "Fluke. Roppongi POKER BAR",
@@ -1330,8 +1552,11 @@
    "url": "",
    "source": "https://poker-choice.com/amusement-casino/pokerroom-roppongi/",
    "note": "",
-   "confidence": "medium",
-   "research": "ポーカー情報サイトの一覧（2026年版）に掲載。公式サイト未確認"
+   "checkedBy": [
+    "jpba",
+    "source:poker-choice.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "BLOW 六本木GOLD",
@@ -1342,8 +1567,10 @@
    "url": "",
    "source": "https://poker-choice.com/amusement-casino/pokerroom-roppongi/",
    "note": "",
-   "confidence": "medium",
-   "research": "ポーカー情報サイトの一覧（2026年版）に掲載。公式サイト未確認"
+   "checkedBy": [
+    "source:poker-choice.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "BLOW 六本木ドラゴン",
@@ -1354,8 +1581,10 @@
    "url": "",
    "source": "https://poker-choice.com/amusement-casino/pokerroom-roppongi/",
    "note": "",
-   "confidence": "medium",
-   "research": "ポーカー情報サイトの一覧（2026年版）に掲載。公式サイト未確認"
+   "checkedBy": [
+    "source:poker-choice.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "Bar&Casino SLOWPLAY-TOKYO-",
@@ -1366,8 +1595,9 @@
    "url": "",
    "source": "https://poker-choice.com/amusement-casino/pokerroom-roppongi/",
    "note": "",
-   "confidence": "medium",
-   "research": "ポーカー情報サイトの一覧（2026年版）に掲載。公式サイト未確認"
+   "checkedBy": [
+    "source:poker-choice.com"
+   ]
   },
   {
    "name": "ATHENA",
@@ -1378,8 +1608,10 @@
    "url": "",
    "source": "https://poker-choice.com/amusement-casino/pokerroom-ikebukuro/",
    "note": "",
-   "confidence": "medium",
-   "research": "ポーカー情報サイトの一覧（2026年版）に掲載。公式サイト未確認"
+   "checkedBy": [
+    "source:poker-choice.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "RERAISE",
@@ -1390,20 +1622,10 @@
    "url": "",
    "source": "https://poker-choice.com/amusement-casino/pokerroom-ikebukuro/",
    "note": "",
-   "confidence": "medium",
-   "research": "ポーカー情報サイトの一覧（2026年版）に掲載。公式サイト未確認"
-  },
-  {
-   "name": "PokerBar RAS",
-   "pref": "東京都",
-   "city": "豊島区",
-   "area": "池袋",
-   "address": "東京都豊島区池袋2-5-5 千ビル302",
-   "url": "",
-   "source": "https://poker-choice.com/amusement-casino/pokerroom-ikebukuro/",
-   "note": "",
-   "confidence": "medium",
-   "research": "ポーカー情報サイトの一覧（2026年版）に掲載。公式サイト未確認"
+   "checkedBy": [
+    "source:poker-choice.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "BLOW 池袋",
@@ -1414,8 +1636,10 @@
    "url": "",
    "source": "https://poker-choice.com/amusement-casino/pokerroom-ikebukuro/",
    "note": "",
-   "confidence": "medium",
-   "research": "ポーカー情報サイトの一覧（2026年版）に掲載。公式サイト未確認（別の情報では住所が異なる）"
+   "checkedBy": [
+    "source:poker-choice.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "NEKOKAJI秋葉原",
@@ -1426,8 +1650,9 @@
    "url": "",
    "source": "https://casino-deck.com/area/akihabara-kanda-suidobashi/",
    "note": "",
-   "confidence": "medium",
-   "research": "ポーカー情報サイトに掲載。公式サイト未確認"
+   "checkedBy": [
+    "casino-deck"
+   ]
   },
   {
    "name": "ROOTS OSAKA",
@@ -1438,8 +1663,10 @@
    "url": "https://x.com/ROOTS_OSAKA",
    "source": "https://poker-choice.com/amusement-casino/pokerroom-osaka/",
    "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "source:poker-choice.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "GoodGame Poker Live Osaka",
@@ -1450,8 +1677,10 @@
    "url": "https://x.com/GGPL_osaka",
    "source": "https://x.com/GGPL_osaka/status/2055232711808405967",
    "note": "通称 GGPL大阪",
-   "confidence": "high",
-   "research": "通称 GGPL大阪"
+   "checkedBy": [
+    "jpba",
+    "casino-deck"
+   ]
   },
   {
    "name": "むさぽ大阪 MUSASHI POKER ROOM OSAKA",
@@ -1462,8 +1691,12 @@
    "url": "https://web.pokerroom634.com/",
    "source": "https://web.pokerroom634.com/rooms/",
    "note": "",
-   "confidence": "high",
-   "research": ""
+   "checkedBy": [
+    "jpba",
+    "url:web.pokerroom634.com",
+    "source:web.pokerroom634.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "アミューズメント カジノ ポケット",
@@ -1474,20 +1707,9 @@
    "url": "https://www.instagram.com/amusement_casino_pocket/",
    "source": "https://www.instagram.com/amusement_casino_pocket/",
    "note": "",
-   "confidence": "medium",
-   "research": ""
-  },
-  {
-   "name": "ポーカー＆カジノバー ゼウス 北新地店",
-   "pref": "大阪府",
-   "city": "大阪市北区",
-   "area": "北新地",
-   "address": "大阪府大阪市北区堂島1-3-1 二葉ビルB2",
-   "url": "https://www.instagram.com/zeus_poker_/",
-   "source": "https://www.instagram.com/zeus_poker_/",
-   "note": "ポーカー以外のカジノゲームもあり",
-   "confidence": "medium",
-   "research": "ポーカー以外のカジノゲームもあり"
+   "checkedBy": [
+    "jpba"
+   ]
   },
   {
    "name": "UNIVERSE",
@@ -1498,8 +1720,9 @@
    "url": "https://x.com/universeosaka",
    "source": "https://x.com/universeosaka",
    "note": "梅田の地下通路から直結",
-   "confidence": "medium",
-   "research": "梅田の地下通路から直結"
+   "checkedBy": [
+    "casino-deck"
+   ]
   },
   {
    "name": "AMUSEMENT CASINO REAL",
@@ -1510,8 +1733,10 @@
    "url": "https://x.com/amupo_real",
    "source": "https://www.instagram.com/pokerbar.real/",
    "note": "シーシャあり",
-   "confidence": "medium",
-   "research": "シーシャあり"
+   "checkedBy": [
+    "jpba",
+    "casino-deck"
+   ]
   },
   {
    "name": "56s POKER cafe",
@@ -1522,8 +1747,10 @@
    "url": "https://x.com/56spokercafe",
    "source": "https://x.com/56spokercafe/status/1716805733239652738",
    "note": "",
-   "confidence": "medium",
-   "research": "住所は2023年の投稿による"
+   "checkedBy": [
+    "jpba",
+    "casino-deck"
+   ]
   },
   {
    "name": "Re:Poker",
@@ -1534,8 +1761,10 @@
    "url": "https://x.com/repoker_osaka",
    "source": "https://x.com/repoker_osaka",
    "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "jpba",
+    "casino-deck"
+   ]
   },
   {
    "name": "POKER BAR LUDENS 大阪",
@@ -1546,20 +1775,10 @@
    "url": "https://x.com/ludens_poker",
    "source": "https://x.com/ludens_poker",
    "note": "",
-   "confidence": "high",
-   "research": ""
-  },
-  {
-   "name": "RERAISE",
-   "pref": "大阪府",
-   "city": "大阪市中央区",
-   "area": "東心斎橋",
-   "address": "",
-   "url": "https://x.com/reraise_osaka",
-   "source": "https://x.com/reraise_osaka",
-   "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "jpba",
+    "casino-deck"
+   ]
   },
   {
    "name": "Poker Base 天王寺店",
@@ -1570,8 +1789,10 @@
    "url": "https://x.com/pokerbase001",
    "source": "https://x.com/pokerfound1231/status/2043937044674818375",
    "note": "",
-   "confidence": "high",
-   "research": ""
+   "checkedBy": [
+    "jpba",
+    "casino-deck"
+   ]
   },
   {
    "name": "AMUSEMENT BAR-SEVEN DEUCE（ポーカーハウス72）",
@@ -1582,8 +1803,9 @@
    "url": "https://x.com/PokerHouse72",
    "source": "https://x.com/PokerHouse72/status/1992205803047240148",
    "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "casino-deck"
+   ]
   },
   {
    "name": "W BARREL",
@@ -1594,8 +1816,9 @@
    "url": "https://x.com/w_barrel",
    "source": "https://x.com/w_barrel",
    "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "casino-deck"
+   ]
   },
   {
    "name": "ナッツポーカー Nuts江坂店",
@@ -1606,20 +1829,9 @@
    "url": "https://x.com/poker_esaka",
    "source": "https://x.com/poker_esaka",
    "note": "",
-   "confidence": "medium",
-   "research": ""
-  },
-  {
-   "name": "ブラフカワイイ",
-   "pref": "大阪府",
-   "city": "大阪市中央区",
-   "area": "心斎橋・宗右衛門町",
-   "address": "",
-   "url": "https://x.com/bluffkawaii",
-   "source": "https://x.com/bluffkawaii",
-   "note": "ポーカーができるコンセプトカフェ",
-   "confidence": "medium",
-   "research": "ポーカーができるコンセプトカフェ"
+   "checkedBy": [
+    "casino-deck"
+   ]
   },
   {
    "name": "35BAR",
@@ -1630,20 +1842,9 @@
    "url": "https://x.com/3535bar0322",
    "source": "https://x.com/3535bar0322",
    "note": "",
-   "confidence": "medium",
-   "research": ""
-  },
-  {
-   "name": "アミューズメントバーGP",
-   "pref": "大阪府",
-   "city": "東大阪市",
-   "area": "近鉄布施",
-   "address": "",
-   "url": "https://twitter.com/amusementbargp",
-   "source": "https://twitter.com/amusementbargp",
-   "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "casino-deck"
+   ]
   },
   {
    "name": "むさぽ名古屋栄店 MUSASHI POKER ROOM NAGOYA",
@@ -1654,8 +1855,12 @@
    "url": "https://web.pokerroom634.com/",
    "source": "https://web.pokerroom634.com/rooms/",
    "note": "",
-   "confidence": "high",
-   "research": ""
+   "checkedBy": [
+    "jpba",
+    "url:web.pokerroom634.com",
+    "source:web.pokerroom634.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "GoodGame Poker Live NAGOYA",
@@ -1666,8 +1871,10 @@
    "url": "https://x.com/GGPLnagoya",
    "source": "https://x.com/GGPLnagoya/status/2076278879476691158",
    "note": "通称 GGPL名古屋",
-   "confidence": "high",
-   "research": "通称 GGPL名古屋"
+   "checkedBy": [
+    "jpba",
+    "casino-deck"
+   ]
   },
   {
    "name": "SECOND NUTS",
@@ -1678,8 +1885,9 @@
    "url": "https://x.com/secondnutspoker",
    "source": "https://x.com/secondnutspoker",
    "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "casino-deck"
+   ]
   },
   {
    "name": "ロイヤルフラッシュ",
@@ -1690,8 +1898,9 @@
    "url": "https://x.com/royalflush_6186",
    "source": "https://www.instagram.com/royalflush6186/",
    "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "casino-deck"
+   ]
   },
   {
    "name": "Amusement poker BAKU♠︎BAKU",
@@ -1702,8 +1911,9 @@
    "url": "https://x.com/poker_BAKUBAKU",
    "source": "https://x.com/poker_BAKUBAKU",
    "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "jpba"
+   ]
   },
   {
    "name": "VALHALLA amusement casino bar",
@@ -1714,8 +1924,10 @@
    "url": "https://x.com/valhalla_poker",
    "source": "https://x.com/valhalla_poker",
    "note": "ポーカー以外のカジノゲームもあり",
-   "confidence": "medium",
-   "research": "ポーカー以外のカジノゲームもあり"
+   "checkedBy": [
+    "jpba",
+    "casino-deck"
+   ]
   },
   {
    "name": "REX POKER NAGOYA",
@@ -1726,8 +1938,11 @@
    "url": "https://x.com/rexpoker_nagoya",
    "source": "https://r.gnavi.co.jp/hseab9de0000/",
    "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "jpba",
+    "source:r.gnavi.co.jp",
+    "casino-deck"
+   ]
   },
   {
    "name": "INSPIRE POKER",
@@ -1738,8 +1953,10 @@
    "url": "https://www.instagram.com/inspire_nagoya/",
    "source": "https://www.instagram.com/inspire_nagoya/",
    "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "jpba",
+    "casino-deck"
+   ]
   },
   {
    "name": "ナゴヤギルド",
@@ -1750,8 +1967,10 @@
    "url": "https://x.com/NagoyaGuild_AG",
    "source": "https://x.com/NagoyaGuild_AG",
    "note": "ポーカー以外のカジノゲームもあり",
-   "confidence": "medium",
-   "research": "ポーカー以外のカジノゲームもあり"
+   "checkedBy": [
+    "jpba",
+    "casino-deck"
+   ]
   },
   {
    "name": "アミューズメントカジノJUGAME（ジュゲム）",
@@ -1762,8 +1981,9 @@
    "url": "https://www.instagram.com/jugame_poker/",
    "source": "https://www.instagram.com/jugame_poker/",
    "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "casino-deck"
+   ]
   },
   {
    "name": "DoubleBelly Poker&Bar",
@@ -1774,8 +1994,10 @@
    "url": "https://x.com/doublebelly_",
    "source": "https://x.com/doublebelly_",
    "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "jpba",
+    "casino-deck"
+   ]
   },
   {
    "name": "GPT GLOBAL POKER アミューズメント",
@@ -1786,8 +2008,9 @@
    "url": "https://x.com/gpt_global",
    "source": "https://x.com/gpt_global",
    "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "jpba"
+   ]
   },
   {
    "name": "じゃんけんポーカー京都河原町店",
@@ -1798,8 +2021,9 @@
    "url": "https://x.com/jyanken_kyoto",
    "source": "https://x.com/jyanken_kyoto",
    "note": "2026年12月上旬に「むさぽ（MUSASHI POKER ROOM）」へ店名変更の予定",
-   "confidence": "high",
-   "research": "2026年12月上旬に「むさぽ（MUSASHI POKER ROOM）」へブランド変更予定（運営発表 2026-10-27）"
+   "checkedBy": [
+    "casino-deck"
+   ]
   },
   {
    "name": "POKER RING 河原町店",
@@ -1810,8 +2034,10 @@
    "url": "https://x.com/poker_ringkawa",
    "source": "https://x.com/pokerfound1231/status/2041076491732066380",
    "note": "",
-   "confidence": "high",
-   "research": ""
+   "checkedBy": [
+    "jpba",
+    "casino-deck"
+   ]
   },
   {
    "name": "THE RIVER 京都祇園",
@@ -1822,8 +2048,10 @@
    "url": "https://www.instagram.com/the.river_kyoto/",
    "source": "https://x.com/gionriverv",
    "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "jpba",
+    "casino-deck"
+   ]
   },
   {
    "name": "THE POKER神戸店",
@@ -1834,8 +2062,10 @@
    "url": "https://x.com/kobe_thepoker",
    "source": "https://x.com/Kobe_thepoker/status/2081943303562375383",
    "note": "",
-   "confidence": "high",
-   "research": ""
+   "checkedBy": [
+    "jpba",
+    "casino-deck"
+   ]
   },
   {
    "name": "じゃんけんポーカー神戸三宮店",
@@ -1846,32 +2076,9 @@
    "url": "https://x.com/jkp_sannomiya",
    "source": "https://x.com/jkp_sannomiya",
    "note": "2026年12月上旬に「むさぽ（MUSASHI POKER ROOM）」へ店名変更の予定",
-   "confidence": "high",
-   "research": "2026年12月上旬に「むさぽ（MUSASHI POKER ROOM）」へブランド変更予定（運営発表 2026-10-27）"
-  },
-  {
-   "name": "ぽーかろ@神戸三宮",
-   "pref": "兵庫県",
-   "city": "神戸市中央区",
-   "area": "三宮",
-   "address": "",
-   "url": "https://x.com/Amusepokerlo",
-   "source": "https://x.com/Amusepokerlo",
-   "note": "2026年3月オープン",
-   "confidence": "high",
-   "research": "2026年3月オープン"
-  },
-  {
-   "name": "アミューズメントバーキリン三宮店",
-   "pref": "兵庫県",
-   "city": "神戸市中央区",
-   "area": "三宮",
-   "address": "",
-   "url": "https://x.com/barkirin_kobe",
-   "source": "https://x.com/barkirin_kobe/status/2017453691335544987",
-   "note": "ポーカーのほかボードゲーム・ダーツ等",
-   "confidence": "high",
-   "research": "ポーカーのほかボードゲーム・ダーツ等"
+   "checkedBy": [
+    "casino-deck"
+   ]
   },
   {
    "name": "Poker&Casino JABULA",
@@ -1882,20 +2089,9 @@
    "url": "https://x.com/jabulaamagasaki",
    "source": "https://x.com/pokerfound1231/status/2014194171763138576",
    "note": "",
-   "confidence": "high",
-   "research": ""
-  },
-  {
-   "name": "AREKEY2 兵庫西宮ポーカー",
-   "pref": "兵庫県",
-   "city": "西宮市",
-   "area": "甲東園",
-   "address": "兵庫県西宮市松籟荘10-9 ブレ甲東園3F",
-   "url": "https://x.com/penguinarekey",
-   "source": "https://x.com/pokerfound1231/status/2043182864242758085",
-   "note": "",
-   "confidence": "high",
-   "research": ""
+   "checkedBy": [
+    "casino-deck"
+   ]
   },
   {
    "name": "じゃんけんポーカー浜松店",
@@ -1906,20 +2102,9 @@
    "url": "https://x.com/jkp_hamamatsu",
    "source": "https://x.com/jkp_hamamatsu",
    "note": "2026年12月上旬に「むさぽ（MUSASHI POKER ROOM）」へ店名変更の予定",
-   "confidence": "high",
-   "research": "2026年12月上旬に「むさぽ（MUSASHI POKER ROOM）」へブランド変更予定（運営発表 2026-10-27）"
-  },
-  {
-   "name": "ポーカーSPACE浜松",
-   "pref": "静岡県",
-   "city": "浜松市中央区",
-   "area": "千歳町",
-   "address": "",
-   "url": "https://www.instagram.com/space_hamamatsu/",
-   "source": "https://www.instagram.com/space_hamamatsu/",
-   "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "casino-deck"
+   ]
   },
   {
    "name": "ポーカールームYORIMICHI（ヨリミチ）",
@@ -1930,8 +2115,9 @@
    "url": "https://x.com/YORIMICHI_Poker",
    "source": "https://x.com/YORIMICHI_Poker",
    "note": "2025年8月オープン",
-   "confidence": "medium",
-   "research": "2025年8月オープン"
+   "checkedBy": [
+    "casino-deck"
+   ]
   },
   {
    "name": "polarize poker（ポラライズ）",
@@ -1942,8 +2128,9 @@
    "url": "https://twitter.com/polarize_s",
    "source": "https://twitter.com/polarize_s",
    "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "jpba"
+   ]
   },
   {
    "name": "じゃんけんポーカー岐阜店",
@@ -1954,8 +2141,9 @@
    "url": "https://x.com/jyanken_gifu",
    "source": "https://x.com/jyanken_gifu/status/2054532118714236960",
    "note": "2026年12月上旬に「むさぽ（MUSASHI POKER ROOM）」へ店名変更の予定",
-   "confidence": "high",
-   "research": "2026年12月上旬に「むさぽ（MUSASHI POKER ROOM）」へブランド変更予定（運営発表 2026-10-27）"
+   "checkedBy": [
+    "casino-deck"
+   ]
   },
   {
    "name": "アミューズメントポーカー GAP STREAK 岐阜店",
@@ -1966,8 +2154,10 @@
    "url": "https://x.com/gapstreakgifu",
    "source": "https://x.com/gapstreakgifu",
    "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "jpba",
+    "casino-deck"
+   ]
   },
   {
    "name": "Poker Room Arkadia（アルカディア）",
@@ -1978,8 +2168,10 @@
    "url": "https://x.com/Arkadia_Poker",
    "source": "https://www.instagram.com/arkadia_poker/",
    "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "jpba",
+    "casino-deck"
+   ]
   },
   {
    "name": "アミューズメントカジノ Liiink（リンク）",
@@ -1990,32 +2182,9 @@
    "url": "https://x.com/liiinkikids",
    "source": "https://x.com/liiinkikids",
    "note": "",
-   "confidence": "medium",
-   "research": ""
-  },
-  {
-   "name": "カジノコンカフェ ポーカーメイド",
-   "pref": "三重県",
-   "city": "松阪市",
-   "area": "",
-   "address": "三重県松阪市愛宕町一丁目25-1 フェイスビル4F",
-   "url": "https://www.instagram.com/poker_maid/",
-   "source": "https://www.instagram.com/poker_maid/",
-   "note": "ポーカーができるコンセプトカフェ",
-   "confidence": "medium",
-   "research": "ポーカーができるコンセプトカフェ"
-  },
-  {
-   "name": "Arcana滋賀",
-   "pref": "滋賀県",
-   "city": "草津市",
-   "area": "南草津",
-   "address": "滋賀県草津市南草津2丁目1-7 ラクーンビル 3階",
-   "url": "https://x.com/arcana_poker",
-   "source": "https://x.com/arcana_poker",
-   "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "casino-deck"
+   ]
   },
   {
    "name": "POKER&SHISHA BAR CHOICE",
@@ -2026,8 +2195,9 @@
    "url": "https://x.com/choice_shiga",
    "source": "https://x.com/choice_shiga",
    "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "jpba"
+   ]
   },
   {
    "name": "じゃんけんポーカー滋賀南草津店",
@@ -2038,8 +2208,9 @@
    "url": "https://x.com/jkp_minakusa",
    "source": "https://x.com/jkp_minakusa/status/2046173914297242039",
    "note": "2026年12月上旬に「むさぽ（MUSASHI POKER ROOM）」へ店名変更の予定",
-   "confidence": "high",
-   "research": "2026年12月上旬に「むさぽ（MUSASHI POKER ROOM）」へブランド変更予定（運営発表 2026-10-27）"
+   "checkedBy": [
+    "casino-deck"
+   ]
   },
   {
    "name": "poker room BLANC",
@@ -2050,8 +2221,10 @@
    "url": "https://x.com/poker_blanc",
    "source": "https://www.instagram.com/poker_blanc/",
    "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "jpba",
+    "casino-deck"
+   ]
   },
   {
    "name": "poker room BUTT（ポーカールームバット）",
@@ -2062,8 +2235,10 @@
    "url": "https://x.com/pokerroom_BUTT",
    "source": "https://x.com/pokerroom_BUTT",
    "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "jpba",
+    "casino-deck"
+   ]
   },
   {
    "name": "9High新潟店",
@@ -2074,8 +2249,10 @@
    "url": "https://www.instagram.com/9high_niigata/",
    "source": "https://twitter.com/9high_niigata",
    "note": "2024年2月オープン",
-   "confidence": "medium",
-   "research": "2024年2月オープン"
+   "checkedBy": [
+    "jpba",
+    "casino-deck"
+   ]
   },
   {
    "name": "Amusement Poker House PANSE",
@@ -2086,20 +2263,10 @@
    "url": "https://www.instagram.com/panse_toyama/",
    "source": "https://www.instagram.com/panse_toyama/",
    "note": "",
-   "confidence": "medium",
-   "research": ""
-  },
-  {
-   "name": "Leaf 富山ポーカー",
-   "pref": "富山県",
-   "city": "富山市",
-   "area": "富山駅",
-   "address": "",
-   "url": "https://x.com/Leaf_Poker",
-   "source": "https://x.com/Leaf_Poker",
-   "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "jpba",
+    "casino-deck"
+   ]
   },
   {
    "name": "Poker Lounge White 金沢",
@@ -2110,8 +2277,10 @@
    "url": "https://www.instagram.com/poker.white.kanazawa/",
    "source": "https://www.instagram.com/poker.white.kanazawa/",
    "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "jpba",
+    "casino-deck"
+   ]
   },
   {
    "name": "SPARKL 金沢片町",
@@ -2122,20 +2291,9 @@
    "url": "https://x.com/SPARKL_casino",
    "source": "https://x.com/SPARKL_casino",
    "note": "",
-   "confidence": "medium",
-   "research": ""
-  },
-  {
-   "name": "suits@ポーカールーム福井店",
-   "pref": "福井県",
-   "city": "福井市",
-   "area": "順化",
-   "address": "",
-   "url": "https://x.com/suits_fukui",
-   "source": "https://x.com/suits_fukui",
-   "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "casino-deck"
+   ]
   },
   {
    "name": "ODDS POKER ROOM 福井店",
@@ -2146,32 +2304,10 @@
    "url": "https://twitter.com/odds_poker_room",
    "source": "https://twitter.com/odds_poker_room",
    "note": "",
-   "confidence": "medium",
-   "research": ""
-  },
-  {
-   "name": "TIP UP 甲府ポーカーバー",
-   "pref": "山梨県",
-   "city": "甲府市",
-   "area": "",
-   "address": "山梨県甲府市徳行3丁目7-6 コスモM103",
-   "url": "https://x.com/tipup2021",
-   "source": "https://x.com/tipup2021",
-   "note": "",
-   "confidence": "medium",
-   "research": ""
-  },
-  {
-   "name": "アミューズメントポーカーGiina",
-   "pref": "長野県",
-   "city": "長野市",
-   "area": "権堂",
-   "address": "長野市権堂町2226-11",
-   "url": "https://x.com/Giina__111",
-   "source": "https://x.com/Giina__111",
-   "note": "",
-   "confidence": "medium",
-   "research": ""
+   "checkedBy": [
+    "jpba",
+    "casino-deck"
+   ]
   },
   {
    "name": "m HOLD'EM 中洲",
@@ -2182,8 +2318,10 @@
    "url": "https://mpj-portal.jp/official/nakasu/",
    "source": "https://saiganak.com/ja/news/m-holdem-nakasu-announcement/",
    "note": "",
-   "confidence": "high",
-   "research": "2025年6月開業（m2R運営）。公式ページあり。住所は第三者記事の記載"
+   "checkedBy": [
+    "url:mpj-portal.jp",
+    "casino-deck"
+   ]
   },
   {
    "name": "Leje 博多店",
@@ -2194,8 +2332,10 @@
    "url": "https://www.lejehakata.com/",
    "source": "https://r.gnavi.co.jp/6dfr69k80000/",
    "note": "カジノバー（ポーカー以外も）",
-   "confidence": "medium",
-   "research": "公式サイトあり。カジノバー（ポーカー以外も）"
+   "checkedBy": [
+    "source:r.gnavi.co.jp",
+    "casino-deck"
+   ]
   },
   {
    "name": "じゃんけんポーカー福岡天神店",
@@ -2206,8 +2346,10 @@
    "url": "https://tenjin.jyanken-poker.jp/",
    "source": "https://tenjin.jyanken-poker.jp/",
    "note": "チェーン店",
-   "confidence": "high",
-   "research": "公式サイトあり。チェーン店"
+   "checkedBy": [
+    "url:tenjin.jyanken-poker.jp",
+    "source:tenjin.jyanken-poker.jp"
+   ]
   },
   {
    "name": "RAISE BLUE 天神ポーカーハウス",
@@ -2218,20 +2360,9 @@
    "url": "https://x.com/raiseblue_poker",
    "source": "https://x.com/raiseblue_poker?lang=ja",
    "note": "2025年1月開業",
-   "confidence": "medium",
-   "research": "2025年1月開業。公式X"
-  },
-  {
-   "name": "アミューズメントバー SAVE 天神店",
-   "pref": "福岡県",
-   "city": "福岡市中央区",
-   "area": "天神",
-   "address": "福岡県福岡市中央区天神3丁目6-16 オフィスニューガイアクレール8階",
-   "url": "",
-   "source": "https://www.fukuoka-online.jp/column/tenjin-poker-bar/",
-   "note": "",
-   "confidence": "medium",
-   "research": "検索結果の抜粋のみで確認（ページ本文は未取得）。営業中か要再確認"
+   "checkedBy": [
+    "casino-deck"
+   ]
   },
   {
    "name": "POKER FUXK 天神",
@@ -2242,20 +2373,10 @@
    "url": "",
    "source": "https://www.uwu-onug.com/poker-fuxk",
    "note": "",
-   "confidence": "medium",
-   "research": "検索結果の抜粋のみで確認（ページ本文は未取得）。営業中か要再確認"
-  },
-  {
-   "name": "72（セブンツー）",
-   "pref": "福岡県",
-   "city": "福岡市中央区",
-   "area": "天神",
-   "address": "福岡県福岡市中央区天神3-3-5 FULLFULLビル3F",
-   "url": "",
-   "source": "https://light-three.com/hakata-poker/",
-   "note": "",
-   "confidence": "medium",
-   "research": "検索結果の抜粋のみで確認（ページ本文は未取得）。営業中か要再確認"
+   "checkedBy": [
+    "jpba",
+    "casino-deck"
+   ]
   },
   {
    "name": "むさぽ福岡 MUSASHI POKER ROOM",
@@ -2266,8 +2387,12 @@
    "url": "https://web.pokerroom634.com/fukuoka/",
    "source": "https://web.pokerroom634.com/fukuoka/",
    "note": "",
-   "confidence": "medium",
-   "research": "公式サイトらしいページあり（本文は未取得）"
+   "checkedBy": [
+    "jpba",
+    "url:web.pokerroom634.com",
+    "source:web.pokerroom634.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "CASINO BLOW 西中洲",
@@ -2278,8 +2403,10 @@
    "url": "",
    "source": "https://www.fukuoka-online.jp/column/fukuoka-casino-bar/",
    "note": "カジノバー",
-   "confidence": "medium",
-   "research": "住所が情報源で食い違うため空欄。カジノバー"
+   "checkedBy": [
+    "jpba",
+    "casino-deck"
+   ]
   },
   {
    "name": "アミューズメントバー トリプルバレル",
@@ -2290,8 +2417,10 @@
    "url": "https://triplebarrel.jimdofree.com/",
    "source": "https://amuse-casino.com/triplebarrel/shop/",
    "note": "",
-   "confidence": "medium",
-   "research": "公式サイトあり。折尾にも店舗がある旨の記事あり（未確認）"
+   "checkedBy": [
+    "url:triplebarrel.jimdofree.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "NUW LAND（ぬーらんど）",
@@ -2302,8 +2431,11 @@
    "url": "https://nuwland.com/",
    "source": "https://nuwland.com/",
    "note": "",
-   "confidence": "medium",
-   "research": "公式サイトあり。京町"
+   "checkedBy": [
+    "url:nuwland.com",
+    "source:nuwland.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "アミューズメントバー KAJI BAR",
@@ -2314,8 +2446,12 @@
    "url": "https://kajibarkokura.owst.jp/",
    "source": "https://kajibarkokura.owst.jp/",
    "note": "",
-   "confidence": "medium",
-   "research": "公式サイトあり。鍛治町"
+   "checkedBy": [
+    "jpba",
+    "url:kajibarkokura.owst.jp",
+    "source:kajibarkokura.owst.jp",
+    "casino-deck"
+   ]
   },
   {
    "name": "CASINO Arrows 小倉店",
@@ -2326,8 +2462,10 @@
    "url": "",
    "source": "https://map.yahoo.co.jp/v3/place/-yeeqpUgPpY",
    "note": "堺町",
-   "confidence": "medium",
-   "research": "2025年8月開業との記載。堺町"
+   "checkedBy": [
+    "jpba",
+    "casino-deck"
+   ]
   },
   {
    "name": "Poker Room Zekka（ポーカールーム 絶佳）",
@@ -2338,8 +2476,10 @@
    "url": "",
    "source": "https://pokerdiary.net/poker-room-zekka/",
    "note": "",
-   "confidence": "medium",
-   "research": "ディレクトリ掲載は約1年前の情報"
+   "checkedBy": [
+    "jpba",
+    "casino-deck"
+   ]
   },
   {
    "name": "Anti \"U\"（アンツ）",
@@ -2350,20 +2490,10 @@
    "url": "",
    "source": "https://casino-deck.com/area/chugoku/",
    "note": "",
-   "confidence": "medium",
-   "research": "検索結果の抜粋のみで確認（ページ本文は未取得）。営業中か要再確認"
-  },
-  {
-   "name": "B BROTHER（ビーブラザー）",
-   "pref": "岡山県",
-   "city": "岡山市北区",
-   "area": "",
-   "address": "",
-   "url": "https://bbrother-poker.com/",
-   "source": "https://bbrother-poker.com/",
-   "note": "",
-   "confidence": "medium",
-   "research": "公式サイトあり。住所が情報源で食い違うため空欄"
+   "checkedBy": [
+    "source:casino-deck.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "POKER ROOM NINE",
@@ -2374,8 +2504,10 @@
    "url": "https://x.com/poker_room_9",
    "source": "https://subsaku.com/nine/",
    "note": "麻雀ナインと同じ建物",
-   "confidence": "medium",
-   "research": "麻雀ナインと同じ建物"
+   "checkedBy": [
+    "jpba",
+    "casino-deck"
+   ]
   },
   {
    "name": "POKER ROOM OCEAN",
@@ -2386,8 +2518,10 @@
    "url": "",
    "source": "https://okayamanakaku-minamiku-higashiku.goguynet.jp/2026/02/25/ocean/",
    "note": "",
-   "confidence": "medium",
-   "research": "2026年2月の地域記事でプレオープン"
+   "checkedBy": [
+    "jpba",
+    "casino-deck"
+   ]
   },
   {
    "name": "アミューズメントポーカー KQ 倉敷",
@@ -2398,20 +2532,11 @@
    "url": "",
    "source": "https://casino-deck.com/amusement-casino/amusement-poker-kq-kurashiki/",
    "note": "",
-   "confidence": "medium",
-   "research": "検索結果の抜粋のみで確認（ページ本文は未取得）。営業中か要再確認"
-  },
-  {
-   "name": "広島PetitDemon",
-   "pref": "広島県",
-   "city": "広島市中区",
-   "area": "流川",
-   "address": "広島県広島市中区流川町2-7",
-   "url": "",
-   "source": "https://casinojapan-inc.jp/store-petitdemon/",
-   "note": "",
-   "confidence": "medium",
-   "research": "カジノジャパンの店舗紹介ページ"
+   "checkedBy": [
+    "jpba",
+    "source:casino-deck.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "BLOW 広島流川",
@@ -2422,8 +2547,9 @@
    "url": "",
    "source": "https://kanko-h.com/info/?p=26734",
    "note": "2023年5月開業のカジノバー",
-   "confidence": "medium",
-   "research": "2023年5月開業のカジノバー"
+   "checkedBy": [
+    "casino-deck"
+   ]
   },
   {
    "name": "広島ポーカー倶楽部",
@@ -2434,8 +2560,9 @@
    "url": "",
    "source": "https://hamoni.jp/shop/mITi3t1wMckCHIq8BUK9",
    "note": "",
-   "confidence": "medium",
-   "research": "検索結果の抜粋のみで確認（ページ本文は未取得）。営業中か要再確認"
+   "checkedBy": [
+    "casino-deck"
+   ]
   },
   {
    "name": "Poker bar Beamz",
@@ -2446,8 +2573,10 @@
    "url": "https://www.pokerbarbeamz.com/",
    "source": "https://www.pokerbarbeamz.com/",
    "note": "",
-   "confidence": "medium",
-   "research": "公式サイトあり"
+   "checkedBy": [
+    "jpba",
+    "casino-deck"
+   ]
   },
   {
    "name": "Poker Bar CROSS GUILD（クロスギルド）",
@@ -2458,20 +2587,9 @@
    "url": "https://x.com/CROSSGUILD__",
    "source": "https://poker.dmm.com/stores/3585263",
    "note": "",
-   "confidence": "medium",
-   "research": "検索結果の抜粋のみで確認（ページ本文は未取得）。営業中か要再確認"
-  },
-  {
-   "name": "ぽけっと徳島店",
-   "pref": "徳島県",
-   "city": "徳島市",
-   "area": "",
-   "address": "徳島県徳島市両国橋21-2 ストロングビル2F",
-   "url": "",
-   "source": "https://x.com/pokerfound1018/status/2028404751025774813",
-   "note": "",
-   "confidence": "medium",
-   "research": "まとめアカウントのX投稿（2026年）に掲載"
+   "checkedBy": [
+    "jpba"
+   ]
   },
   {
    "name": "GRAND CASINO 徳島",
@@ -2482,20 +2600,9 @@
    "url": "",
    "source": "https://x.com/pokerfound1018/status/2028404751025774813",
    "note": "",
-   "confidence": "medium",
-   "research": "まとめアカウントのX投稿（2026年）に掲載"
-  },
-  {
-   "name": "ぽけっと",
-   "pref": "香川県",
-   "city": "高松市",
-   "area": "瓦町",
-   "address": "香川県高松市瓦町2丁目10-6 川部ビル1F",
-   "url": "",
-   "source": "https://x.com/pokerfound1018/status/2028404751025774813",
-   "note": "",
-   "confidence": "medium",
-   "research": "まとめアカウントのX投稿（2026年）に掲載"
+   "checkedBy": [
+    "jpba"
+   ]
   },
   {
    "name": "高松ポーカーRoom ROUTE AA",
@@ -2506,8 +2613,9 @@
    "url": "",
    "source": "https://x.com/pokerfound1018/status/2028404751025774813",
    "note": "",
-   "confidence": "medium",
-   "research": "まとめアカウントのX投稿（2026年）に掲載"
+   "checkedBy": [
+    "casino-deck"
+   ]
   },
   {
    "name": "Ehime Poker 教室倶楽部",
@@ -2518,8 +2626,9 @@
    "url": "",
    "source": "https://x.com/pokerfound1018/status/2028404751025774813",
    "note": "",
-   "confidence": "medium",
-   "research": "まとめアカウントのX投稿（2026年）に掲載"
+   "checkedBy": [
+    "jpba"
+   ]
   },
   {
    "name": "Sea trident",
@@ -2530,8 +2639,11 @@
    "url": "https://sea-trident-poker.com/",
    "source": "https://sea-trident-poker.com/",
    "note": "",
-   "confidence": "medium",
-   "research": "公式サイトあり"
+   "checkedBy": [
+    "url:sea-trident-poker.com",
+    "source:sea-trident-poker.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "amusement bar Jacks",
@@ -2542,8 +2654,10 @@
    "url": "https://x.com/jacks_20220516",
    "source": "https://x.com/jacks_20220516",
    "note": "",
-   "confidence": "medium",
-   "research": "検索結果の抜粋のみで確認（ページ本文は未取得）。営業中か要再確認"
+   "checkedBy": [
+    "jpba",
+    "casino-deck"
+   ]
   },
   {
    "name": "Casino Spirit（カジノスピリット）",
@@ -2554,8 +2668,12 @@
    "url": "https://casino-spirit.com/",
    "source": "https://casino-spirit.com/",
    "note": "カジノバー",
-   "confidence": "medium",
-   "research": "公式サイトあり。カジノバー"
+   "checkedBy": [
+    "jpba",
+    "url:casino-spirit.com",
+    "source:casino-spirit.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "Gaming Bar TRIPS 高知",
@@ -2566,20 +2684,11 @@
    "url": "",
    "source": "https://casino-deck.com/amusement-casino/gaming-bar-trips-kochi/",
    "note": "",
-   "confidence": "medium",
-   "research": "検索結果の抜粋のみで確認（ページ本文は未取得）。営業中か要再確認"
-  },
-  {
-   "name": "パラダイスカジノ熊本",
-   "pref": "熊本県",
-   "city": "熊本市中央区",
-   "area": "花畑町",
-   "address": "熊本県熊本市中央区下通1-9-8 銀座ビル4F",
-   "url": "https://x.com/paradiseclub20",
-   "source": "https://www.navitime.co.jp/poi?spot=02022-1408003",
-   "note": "",
-   "confidence": "medium",
-   "research": "検索結果の抜粋のみで確認（ページ本文は未取得）。営業中か要再確認"
+   "checkedBy": [
+    "jpba",
+    "source:casino-deck.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "THE ROOM",
@@ -2590,8 +2699,9 @@
    "url": "https://the-room-7.jimdosite.com/",
    "source": "https://nagasaki-search.com/38620/",
    "note": "カジノバー",
-   "confidence": "medium",
-   "research": "公式サイトあり。カジノバー"
+   "checkedBy": [
+    "jpba"
+   ]
   },
   {
    "name": "PEACE Amusement Poker & Bar",
@@ -2602,8 +2712,10 @@
    "url": "",
    "source": "https://tabelog.com/nagasaki/A4201/A420101/42014727/",
    "note": "",
-   "confidence": "medium",
-   "research": "2025年1月開業との記載"
+   "checkedBy": [
+    "jpba",
+    "casino-deck"
+   ]
   },
   {
    "name": "TrickSter（大分県ポーカークラブ）",
@@ -2614,8 +2726,9 @@
    "url": "https://x.com/trickster_oita",
    "source": "https://x.com/trickster_oita",
    "note": "",
-   "confidence": "medium",
-   "research": "検索結果の抜粋のみで確認（ページ本文は未取得）。営業中か要再確認"
+   "checkedBy": [
+    "casino-deck"
+   ]
   },
   {
    "name": "AMUSEMENT CAFE OCEAN",
@@ -2626,8 +2739,11 @@
    "url": "",
    "source": "https://casino-deck.com/area/oita/",
    "note": "",
-   "confidence": "medium",
-   "research": "検索結果の抜粋のみで確認（ページ本文は未取得）。営業中か要再確認"
+   "checkedBy": [
+    "jpba",
+    "source:casino-deck.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "TRUMP 鹿児島天文館",
@@ -2638,8 +2754,11 @@
    "url": "",
    "source": "https://casino-deck.com/amusement-casino/kagoshima-trump/",
    "note": "",
-   "confidence": "medium",
-   "research": "検索結果の抜粋のみで確認（ページ本文は未取得）。営業中か要再確認"
+   "checkedBy": [
+    "jpba",
+    "source:casino-deck.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "鹿児島ポーカーハウスWOLF",
@@ -2650,8 +2769,10 @@
    "url": "",
    "source": "https://casino-deck.com/amusement-casino/pokerhouse-wolf-kagoshima/",
    "note": "",
-   "confidence": "medium",
-   "research": "検索結果の抜粋のみで確認（ページ本文は未取得）。営業中か要再確認"
+   "checkedBy": [
+    "source:casino-deck.com",
+    "casino-deck"
+   ]
   },
   {
    "name": "BLOW 天文館",
@@ -2662,8 +2783,10 @@
    "url": "",
    "source": "https://nightlog.info/store-introduction/blow-tenmonkan/",
    "note": "カジノバー",
-   "confidence": "medium",
-   "research": "カジノバー"
+   "checkedBy": [
+    "jpba",
+    "casino-deck"
+   ]
   },
   {
    "name": "アミューズメントカジノ＆バー MILLION 鹿児島天文館",
@@ -2674,8 +2797,10 @@
    "url": "",
    "source": "https://kagoshimaniax.com/open-million/",
    "note": "",
-   "confidence": "medium",
-   "research": "検索結果の抜粋のみで確認（ページ本文は未取得）。営業中か要再確認"
+   "checkedBy": [
+    "jpba",
+    "casino-deck"
+   ]
   },
   {
    "name": "Jack9（ジャック ナイン）",
@@ -2686,8 +2811,10 @@
    "url": "https://twitter.com/jack9_amusement",
    "source": "https://twitter.com/jack9_amusement",
    "note": "",
-   "confidence": "medium",
-   "research": "検索結果の抜粋のみで確認（ページ本文は未取得）。営業中か要再確認"
+   "checkedBy": [
+    "jpba",
+    "casino-deck"
+   ]
   },
   {
    "name": "ReBarta Plus（リバータ・プラス）",
@@ -2698,8 +2825,9 @@
    "url": "",
    "source": "https://www.okipoka.com/shops/rebarta",
    "note": "",
-   "confidence": "medium",
-   "research": "沖縄のポーカー情報サイトに掲載"
+   "checkedBy": [
+    "casino-deck"
+   ]
   },
   {
    "name": "アミューズメントBAR VeGAS",
@@ -2710,8 +2838,9 @@
    "url": "",
    "source": "https://poker-kings.jp/okinawa-poker/",
    "note": "",
-   "confidence": "medium",
-   "research": "検索結果の抜粋のみで確認（ページ本文は未取得）。営業中か要再確認"
+   "checkedBy": [
+    "casino-deck"
+   ]
   }
  ]
 }
