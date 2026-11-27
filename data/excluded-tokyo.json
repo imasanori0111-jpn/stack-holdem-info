@@ -1,0 +1,114 @@
+[
+  {
+    "name": "GiGO POKER六本木",
+    "city": "港区",
+    "address": "東京都港区六本木7-14-11 メトロシティ六本木4F",
+    "source": "https://www.gigo.co.jp/shops/poker-roppongi",
+    "reason": "閉店（公式Xで2026年7月31日閉店と告知）",
+    "pref": "東京都"
+  },
+  {
+    "name": "新宿de poker",
+    "city": "新宿区",
+    "address": "東京都新宿区歌舞伎町1-25-3 西武新宿駅前ビル3F",
+    "source": "https://japanopenpoker.com/rooms/",
+    "reason": "現在は同じ場所にGGPL新宿。改称か移転か未確認",
+    "pref": "東京都"
+  },
+  {
+    "name": "FLIPS",
+    "city": "新宿区",
+    "address": "東京都新宿区歌舞伎町1-21-1 第二東亜会館2F",
+    "source": "https://gamebiz.jp/news/380948",
+    "reason": "同じ場所が現在GiGO POKER新宿（旧名とみられる）",
+    "pref": "東京都"
+  },
+  {
+    "name": "POKER ROOM UPs",
+    "city": "港区",
+    "address": "東京都港区六本木5丁目18-20 六本木ファイブビルB1F",
+    "source": "https://poker-choice.com/amusement-casino/pokerroom-roppongi/",
+    "reason": "一覧に掲載はあるが、2026年の営業を示す公式情報が見つからない",
+    "pref": "東京都"
+  },
+  {
+    "name": "POKER LIVE SHINJYUKU",
+    "city": "新宿区",
+    "address": "東京都新宿区歌舞伎町1丁目17-2 小松ビル8F",
+    "source": "https://poker-choice.com/amusement-casino/pokerroom-kabukicho/",
+    "reason": "JPBA一覧ではOcean's NEONと同じ番地。改称の可能性があり未確認",
+    "pref": "東京都"
+  },
+  {
+    "name": "RICGAMES SHINJUKU",
+    "city": "新宿区",
+    "address": "",
+    "source": "https://poker-choice.com/amusement-casino/pokerroom-kabukicho/",
+    "reason": "掲載住所がCasino Live Tokyoと同じ（Suzuyaビル9階）。別店舗か未確認",
+    "pref": "東京都"
+  },
+  {
+    "name": "渋谷ポーカーROCK渋谷店",
+    "city": "渋谷区",
+    "address": "東京都渋谷区宇田川町30-7 アンテナ21ビルB1F",
+    "source": "https://poker-choice.com/amusement-casino/pokerroom-shibuya/",
+    "reason": "JPBA一覧ではcasa渋谷と同じ住所。改称の可能性があり未確認",
+    "pref": "東京都"
+  },
+  {
+    "name": "やぎノつの（アミュカジ）",
+    "city": "新宿区",
+    "address": "東京都新宿区西新宿1-13-2 松原ビル6F",
+    "source": "https://poker-choice.com/tokyo/shinjuku/yaginotsuno/",
+    "reason": "同じ住所に2026年2月からGiGO POKER新宿西口。現況未確認",
+    "pref": "東京都"
+  },
+  {
+    "name": "カジスタ東京",
+    "city": "新宿区",
+    "address": "",
+    "source": "https://poker-choice.com/amusement-casino/pokerroom-shinjuku/",
+    "reason": "2024年夏に移転予定との記載のみで、移転先と現況が未確認",
+    "pref": "東京都"
+  },
+  {
+    "name": "隠れ家Barウィン青山",
+    "city": "港区",
+    "address": "",
+    "source": "https://poker-choice.com/amusement-casino/pokerroom-shibuya/",
+    "reason": "一覧のみで現況・公式情報が未確認",
+    "pref": "東京都"
+  },
+  {
+    "name": "JCS Hold'em / SHINJUKU NEOPARAJA",
+    "city": "新宿区",
+    "address": "",
+    "source": "https://poker-choice.com/amusement-casino/pokerroom-shinjuku/",
+    "reason": "掲載記事の更新時期が不明で現況が未確認",
+    "pref": "東京都"
+  },
+  {
+    "name": "秋葉原エンタス / ポカベヤ",
+    "city": "千代田区",
+    "address": "",
+    "source": "https://casino-deck.com/area/akihabara-kanda-suidobashi/",
+    "reason": "情報サイトのみで現況が未確認",
+    "pref": "東京都"
+  },
+  {
+    "name": "BAR RING GAME",
+    "city": "豊島区",
+    "address": "",
+    "source": "https://poker-choice.com/amusement-casino/pokerroom-ikebukuro/",
+    "reason": "kitchenAJITO内での営業とされ、常設のポーカールームか未確認",
+    "pref": "東京都"
+  },
+  {
+    "name": "m HOLD'EM（サミー、目黒）",
+    "city": "目黒区",
+    "address": "",
+    "source": "https://dime.jp/genre/1480384/",
+    "reason": "2021年オープンの記事のみで現況が未確認",
+    "pref": "東京都"
+  }
+]

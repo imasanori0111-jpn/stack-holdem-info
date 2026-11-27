@@ -1,0 +1,128 @@
+[
+ {
+  "name": "QUADS（クワッズ）",
+  "pref": "熊本県",
+  "city": "熊本市中央区",
+  "reason": "閉店と記載（casinodays.net / 検索結果）",
+  "source": "https://casinodays.net/kumamoto-casinobar/"
+ },
+ {
+  "name": "ALL IN",
+  "pref": "大分県",
+  "city": "大分市",
+  "reason": "閉店と記載",
+  "source": "https://casino-deck.com/area/oita/"
+ },
+ {
+  "name": "カジノクラウン",
+  "pref": "徳島県",
+  "city": "徳島市",
+  "reason": "休業中と記載",
+  "source": "https://casino-deck.com/area/shikoku/"
+ },
+ {
+  "name": "ROOTS FUKUOKA",
+  "pref": "福岡県",
+  "city": "福岡市中央区",
+  "reason": "2026年秋開業予定のプレスリリースのみ。開業を未確認",
+  "source": "https://koubo.jp/press-release/prtimes/c80190_r29"
+ },
+ {
+  "name": "グランドミラージュポーカー",
+  "pref": "福岡県",
+  "city": "福岡市中央区",
+  "reason": "まとめ記事に名前があるが、施設内のポーカー営業を確認できず",
+  "source": "https://www.fukuoka-online.jp/column/fukuoka-casino-bar/"
+ },
+ {
+  "name": "CRownCLown",
+  "pref": "福岡県",
+  "city": "福岡市博多区",
+  "reason": "まとめ記事のみ。地図では飲食店扱いでポーカー営業を確認できず",
+  "source": "https://map.yahoo.co.jp/v3/place/79OjPZ8Oz6s"
+ },
+ {
+  "name": "ONECASINO 福岡中洲",
+  "pref": "福岡県",
+  "city": "福岡市博多区",
+  "reason": "まとめ記事のみ。公式・住所を確認できず",
+  "source": "https://poker-texas-holdem-media.com/poker-spot-nakasu/"
+ },
+ {
+  "name": "KKPOKER FUKUOKA / Rising Ace 中洲 / 梵-bon- 西中洲 / ALICE the Poker room / Back Door Bar",
+  "pref": "福岡県",
+  "city": "福岡市",
+  "reason": "まとめ記事に名前のみ。公式・住所を確認できず",
+  "source": "https://poker-texas-holdem-media.com/poker-spot-nakasu/"
+ },
+ {
+  "name": "MIYAZAKI BACKDOOR（Extreme Bar BACKDOOR 宮崎店）",
+  "pref": "宮崎県",
+  "city": "宮崎市",
+  "reason": "まとめ記事に名前のみ。公式・住所を確認できず",
+  "source": "https://light-three.com/miyazaki_poker/"
+ },
+ {
+  "name": "UnderTheGun / NAHA BACKDOOR / BBキング / DONK",
+  "pref": "沖縄県",
+  "city": "那覇市",
+  "reason": "まとめ記事に名前のみ。公式・住所を確認できず",
+  "source": "https://light-three.com/naha-city_poker/"
+ },
+ {
+  "name": "Orange Hold'em",
+  "pref": "愛媛県",
+  "city": "松山市",
+  "reason": "住所が情報源で食い違い（大街道/三番町）。現状未確認",
+  "source": "https://casino-deck.com/amusement-casino/orange-holdem/"
+ },
+ {
+  "name": "LIVE POKER Stay Tune / poker&bar AquA / BLOW SASEBO",
+  "pref": "長崎県",
+  "city": "大村市・長崎市・佐世保市",
+  "reason": "まとめ記事に名前のみ。公式・住所を確認できず",
+  "source": "https://light-three.com/nagasaki-poker/"
+ },
+ {
+  "name": "WR Wing Rabbit 高知帯屋町店 / CASINO BAR LASVEGAS",
+  "pref": "高知県",
+  "city": "高知市",
+  "reason": "まとめ・X投稿のみで現状未確認",
+  "source": "https://casino-deck.com/area/shikoku/"
+ },
+ {
+  "name": "Bar BULLS / POKER HOUSE TT 高松瓦町 / KPC BASE / Kings poker house",
+  "pref": "香川県",
+  "city": "高松市・宇多津町",
+  "reason": "一覧に名前のみ。公式・住所を確認できず",
+  "source": "https://casino-deck.com/area/shikoku/"
+ },
+ {
+  "name": "TOKUSHIMA AWA POKER STUDIO",
+  "pref": "徳島県",
+  "city": "徳島市",
+  "reason": "一覧に名前のみ",
+  "source": "https://casino-deck.com/area/shikoku/"
+ },
+ {
+  "name": "トルネード岡山 / BAR UP'STANCE",
+  "pref": "岡山県",
+  "city": "岡山市北区",
+  "reason": "一覧・まとめのみで現状未確認",
+  "source": "https://casino-deck.com/amusement-casino/up-stance/"
+ },
+ {
+  "name": "ポカフェ・BEYOND（周南市）/ MONSTERS POKER（宇部市）/ Poker bar VISIT（岩国市）",
+  "pref": "山口県",
+  "city": "",
+  "reason": "一覧に名前のみ",
+  "source": "https://casino-deck.com/area/chugoku/"
+ },
+ {
+  "name": "（佐賀県）",
+  "pref": "佐賀県",
+  "city": "",
+  "reason": "検索で該当店舗を見つけられず",
+  "source": ""
+ }
+]

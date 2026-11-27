@@ -1,0 +1,38 @@
+[
+ {
+  "name": "SIX TSUKUBA",
+  "pref": "茨城県",
+  "city": "つくば市",
+  "reason": "公式サイトのドメインが別の内容（中古品）になっていて、営業中か確認できない"
+ },
+ {
+  "name": "Jacks 高崎店",
+  "pref": "群馬県",
+  "city": "高崎市",
+  "reason": "紹介サイトに「閉店しました」と記載"
+ },
+ {
+  "name": "ポーカークラブKINGSMAN 函館店",
+  "pref": "北海道",
+  "city": "函館市",
+  "reason": "2022年開店の記事のみ。新しい店舗一覧に函館がない"
+ },
+ {
+  "name": "アミューズメントバー VEGAS",
+  "pref": "福島県",
+  "city": "いわき市",
+  "reason": "2024年ごろの情報のみで現況不明"
+ },
+ {
+  "name": "Triple8 川崎",
+  "pref": "神奈川県",
+  "city": "川崎市川崎区",
+  "reason": "パラダイスカジノと同じ住所。閉店・移転の可能性"
+ },
+ {
+  "name": "TEXAS OMIYA / UNION 大宮 / BIG BOSS 川越 / ビッグフィッシュ・ACE & KING（福島市）/ 83ROOM・Karma（山形）/ 5656ポーカー倶楽部（鶴岡）/ AZ POKER ROOM 横須賀中央・PokerHouse WAVE SHONAN / NINE THREE 札幌・BUBBLE 札幌 / Queen's Palace・KK LIVE POKER SAPPORO / Pasha（仙台）/ VALUE（川崎）",
+  "pref": "",
+  "city": "",
+  "reason": "名前は紹介サイトで見たが、公式・住所・現況を確かめられなかったので未掲載（確認すれば追加候補）"
+ }
+]
