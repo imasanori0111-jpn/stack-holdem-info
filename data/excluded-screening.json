@@ -284,5 +284,38 @@
   "source": "https://www.navitime.co.jp/poi?spot=02022-1408003",
   "note": "",
   "reason": "情報サイト(casino-deck)で閉店の印"
+ },
+ {
+  "name": "GoodGame Poker Live 新宿",
+  "pref": "東京都",
+  "city": "新宿区",
+  "area": "西武新宿・歌舞伎町",
+  "address": "東京都新宿区歌舞伎町1-25-3 西武新宿駅前ビルWAMALL 3F",
+  "url": "https://ggpokerlive.jp/shinjuku/",
+  "source": "https://ggpokerlive.jp/shinjuku/",
+  "note": "通称 GGPL新宿",
+  "reason": "系列(GoodGame Poker Live)ごと外す(ユーザーの決定 2026-11-27。渋谷店の紹介ページに「賞金総額200万円超」の大会)"
+ },
+ {
+  "name": "GoodGame Poker Live Osaka",
+  "pref": "大阪府",
+  "city": "大阪市北区",
+  "area": "東梅田",
+  "address": "大阪府大阪市北区太融寺町8-17 プラザ梅田ビル 5階",
+  "url": "https://x.com/GGPL_osaka",
+  "source": "https://x.com/GGPL_osaka/status/2055232711808405967",
+  "note": "通称 GGPL大阪",
+  "reason": "系列(GoodGame Poker Live)ごと外す(ユーザーの決定 2026-11-27。渋谷店の紹介ページに「賞金総額200万円超」の大会)"
+ },
+ {
+  "name": "GoodGame Poker Live NAGOYA",
+  "pref": "愛知県",
+  "city": "名古屋市中区",
+  "area": "栄",
+  "address": "",
+  "url": "https://x.com/GGPLnagoya",
+  "source": "https://x.com/GGPLnagoya/status/2076278879476691158",
+  "note": "通称 GGPL名古屋",
+  "reason": "系列(GoodGame Poker Live)ごと外す(ユーザーの決定 2026-11-27。渋谷店の紹介ページに「賞金総額200万円超」の大会)"
  }
 ]
