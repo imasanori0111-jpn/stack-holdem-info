@@ -125,3 +125,15 @@ img { max-width: 100%; height: auto; }
 .pf .copy { margin-top: 16px; font-size: 12.5px; }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
 .pref .pc { margin-left: .4em; color: var(--muted); font-weight: 700; font-size: 13px; }
+.prefs { display: flex; flex-wrap: wrap; gap: 6px 14px; }
+.prefs a { color: var(--blue); font-weight: 700; text-decoration: none; }
+.prefs a:hover { text-decoration: underline; }
+.pref h3 a { text-decoration: none; }
+.pref h3 a:hover { text-decoration: underline; }
+.sec ul.stores { padding-left: 0; max-width: none; }
+.sec ul.stores li + li { margin-top: 0; }
+@media (max-width: 560px) {
+  .tbl .cards { flex-wrap: wrap; white-space: normal; }
+  .tbl th, .tbl td { padding: 9px 7px; }
+  .tbl { font-size: 13.5px; }
+}
