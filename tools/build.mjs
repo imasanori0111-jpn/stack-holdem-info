@@ -108,7 +108,7 @@ function storesBody(data) {
       const items = byPref.get(p).map((s) => {
         const where = [s.city, s.area].filter(Boolean).join(" · ");
         const search = [s.name, s.pref, s.city, s.area, s.address].join(" ");
-        const links = [`<a href="${esc(s.url)}" rel="noopener" target="_blank">${linkLabel(s.url)} ↗</a>`];
+        const links = s.url ? [`<a href="${esc(s.url)}" rel="noopener" target="_blank">${linkLabel(s.url)} ↗</a>`] : (s.source ? [`<a href="${esc(s.source)}" rel="noopener" target="_blank">掲載元の情報 ↗</a>`] : []);
         if (s.address) links.push(`<a href="https://www.google.com/maps/search/?api=1&amp;query=${encodeURIComponent(s.name + " " + s.address)}" rel="noopener" target="_blank">地図 ↗</a>`);
         return `<li class="store" data-s="${esc(search)}"><h4>${esc(s.name)}</h4><p class="where">${esc(s.pref)} ${esc(where)}</p>${s.address ? `<p class="memo">${esc(s.address)}</p>` : ""}${s.note ? `<p class="memo">${esc(s.note)}</p>` : ""}<p class="links">${links.join("")}</p></li>`;
       }).join("");
@@ -183,7 +183,7 @@ function main() {
     let jsonld;
     if (p.key === "stores") {
       jsonld = { "@context": "https://schema.org", "@type": "ItemList", name: p.title, numberOfItems: data.stores.length,
-        itemListElement: data.stores.map((s, i) => ({ "@type": "ListItem", position: i + 1, item: { "@type": "EntertainmentBusiness", name: s.name, url: s.url, address: { "@type": "PostalAddress", addressCountry: "JP", addressRegion: s.pref, addressLocality: s.city, ...(s.address ? { streetAddress: s.address } : {}) } } })) };
+        itemListElement: data.stores.map((s, i) => ({ "@type": "ListItem", position: i + 1, item: { "@type": "EntertainmentBusiness", name: s.name, ...(s.url ? { url: s.url } : {}), address: { "@type": "PostalAddress", addressCountry: "JP", addressRegion: s.pref, addressLocality: s.city, ...(s.address ? { streetAddress: s.address } : {}) } } })) };
     }
     const out = join(ROOT, p.key, "index.html");
     mkdirSync(dirname(out), { recursive: true });
