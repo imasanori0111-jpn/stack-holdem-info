@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://info.stack-poker.com/</loc></url>
+  <url><loc>https://info.stack-poker.com/stores/</loc></url>
+  <url><loc>https://info.stack-poker.com/rules/</loc></url>
+  <url><loc>https://info.stack-poker.com/guide/</loc></url>
+  <url><loc>https://info.stack-poker.com/gto/</loc></url>
   <url><loc>https://info.stack-poker.com/sponsor/</loc></url>
   <url><loc>https://info.stack-poker.com/sponsor/privacy/</loc></url>
 </urlset>

@@ -1,0 +1,214 @@
+{
+ "checked": "2026年11月",
+ "stores": [
+  {
+   "name": "m HOLD'EM 中洲",
+   "pref": "福岡県",
+   "city": "福岡市博多区",
+   "area": "中洲川端",
+   "address": "福岡県福岡市博多区中洲3-7-24 gate'sビル3F",
+   "url": "https://mpj-portal.jp/official/nakasu/",
+   "source": "https://saiganak.com/ja/news/m-holdem-nakasu-announcement/",
+   "confidence": "high",
+   "note": "2025年6月開業（m2R運営）。公式ページあり。住所は第三者記事の記載"
+  },
+  {
+   "name": "Leje 博多店",
+   "pref": "福岡県",
+   "city": "福岡市博多区",
+   "area": "中洲川端",
+   "address": "福岡県福岡市博多区中洲3-7-10 若松ビル4F",
+   "url": "https://www.lejehakata.com/",
+   "source": "https://r.gnavi.co.jp/6dfr69k80000/",
+   "confidence": "medium",
+   "note": "公式サイトあり。カジノバー（ポーカー以外も）"
+  },
+  {
+   "name": "じゃんけんポーカー福岡天神店",
+   "pref": "福岡県",
+   "city": "福岡市中央区",
+   "area": "天神",
+   "address": "福岡県福岡市中央区天神3丁目1-12 北天神ビル4F",
+   "url": "https://tenjin.jyanken-poker.jp/",
+   "source": "https://tenjin.jyanken-poker.jp/",
+   "confidence": "high",
+   "note": "公式サイトあり。チェーン店"
+  },
+  {
+   "name": "RAISE BLUE 天神ポーカーハウス",
+   "pref": "福岡県",
+   "city": "福岡市中央区",
+   "area": "天神",
+   "address": "福岡県福岡市中央区天神3丁目8-11 アスティオン天神ビル4F",
+   "url": "https://x.com/raiseblue_poker",
+   "source": "https://x.com/raiseblue_poker?lang=ja",
+   "confidence": "medium",
+   "note": "2025年1月開業。公式X"
+  },
+  {
+   "name": "むさぽ福岡 MUSASHI POKER ROOM",
+   "pref": "福岡県",
+   "city": "福岡市中央区",
+   "area": "赤坂",
+   "address": "福岡県福岡市中央区大名1-3-29 DAIMYO582 2F",
+   "url": "https://web.pokerroom634.com/fukuoka/",
+   "source": "https://web.pokerroom634.com/fukuoka/",
+   "confidence": "medium",
+   "note": "公式サイトらしいページあり（本文は未取得）"
+  },
+  {
+   "name": "アミューズメントバー トリプルバレル",
+   "pref": "福岡県",
+   "city": "北九州市小倉北区",
+   "area": "小倉・魚町",
+   "address": "福岡県北九州市小倉北区魚町1丁目3-23 2階",
+   "url": "https://triplebarrel.jimdofree.com/",
+   "source": "https://amuse-casino.com/triplebarrel/shop/",
+   "confidence": "medium",
+   "note": "公式サイトあり。折尾にも店舗がある旨の記事あり（未確認）"
+  },
+  {
+   "name": "NUW LAND（ぬーらんど）",
+   "pref": "福岡県",
+   "city": "北九州市小倉北区",
+   "area": "小倉",
+   "address": "",
+   "url": "https://nuwland.com/",
+   "source": "https://nuwland.com/",
+   "confidence": "medium",
+   "note": "公式サイトあり。京町"
+  },
+  {
+   "name": "アミューズメントバー KAJI BAR",
+   "pref": "福岡県",
+   "city": "北九州市小倉北区",
+   "area": "平和通",
+   "address": "",
+   "url": "https://kajibarkokura.owst.jp/",
+   "source": "https://kajibarkokura.owst.jp/",
+   "confidence": "medium",
+   "note": "公式サイトあり。鍛治町"
+  },
+  {
+   "name": "B BROTHER（ビーブラザー）",
+   "pref": "岡山県",
+   "city": "岡山市北区",
+   "area": "",
+   "address": "",
+   "url": "https://bbrother-poker.com/",
+   "source": "https://bbrother-poker.com/",
+   "confidence": "medium",
+   "note": "公式サイトあり。住所が情報源で食い違うため空欄"
+  },
+  {
+   "name": "POKER ROOM NINE",
+   "pref": "岡山県",
+   "city": "岡山市北区",
+   "area": "",
+   "address": "岡山県岡山市北区南方5丁目6-5 今田ビル",
+   "url": "https://x.com/poker_room_9",
+   "source": "https://subsaku.com/nine/",
+   "confidence": "medium",
+   "note": "麻雀ナインと同じ建物"
+  },
+  {
+   "name": "Poker bar Beamz",
+   "pref": "山口県",
+   "city": "山口市",
+   "area": "湯田温泉",
+   "address": "山口県山口市湯田温泉1丁目7-33",
+   "url": "https://www.pokerbarbeamz.com/",
+   "source": "https://www.pokerbarbeamz.com/",
+   "confidence": "medium",
+   "note": "公式サイトあり"
+  },
+  {
+   "name": "Poker Bar CROSS GUILD（クロスギルド）",
+   "pref": "山口県",
+   "city": "下関市",
+   "area": "豊前田",
+   "address": "山口県下関市豊前田町2丁目7-23 GLFビル3階",
+   "url": "https://x.com/CROSSGUILD__",
+   "source": "https://poker.dmm.com/stores/3585263",
+   "confidence": "medium",
+   "note": "検索結果の抜粋のみで確認（ページ本文は未取得）。営業中か要再確認"
+  },
+  {
+   "name": "Sea trident",
+   "pref": "愛媛県",
+   "city": "松山市",
+   "area": "大手町",
+   "address": "",
+   "url": "https://sea-trident-poker.com/",
+   "source": "https://sea-trident-poker.com/",
+   "confidence": "medium",
+   "note": "公式サイトあり"
+  },
+  {
+   "name": "amusement bar Jacks",
+   "pref": "愛媛県",
+   "city": "松山市",
+   "area": "二番町",
+   "address": "",
+   "url": "https://x.com/jacks_20220516",
+   "source": "https://x.com/jacks_20220516",
+   "confidence": "medium",
+   "note": "検索結果の抜粋のみで確認（ページ本文は未取得）。営業中か要再確認"
+  },
+  {
+   "name": "Casino Spirit（カジノスピリット）",
+   "pref": "高知県",
+   "city": "高知市",
+   "area": "帯屋町",
+   "address": "高知県高知市帯屋町1丁目5-2 トムビルディング4F",
+   "url": "https://casino-spirit.com/",
+   "source": "https://casino-spirit.com/",
+   "confidence": "medium",
+   "note": "公式サイトあり。カジノバー"
+  },
+  {
+   "name": "パラダイスカジノ熊本",
+   "pref": "熊本県",
+   "city": "熊本市中央区",
+   "area": "花畑町",
+   "address": "熊本県熊本市中央区下通1-9-8 銀座ビル4F",
+   "url": "https://x.com/paradiseclub20",
+   "source": "https://www.navitime.co.jp/poi?spot=02022-1408003",
+   "confidence": "medium",
+   "note": "検索結果の抜粋のみで確認（ページ本文は未取得）。営業中か要再確認"
+  },
+  {
+   "name": "THE ROOM",
+   "pref": "長崎県",
+   "city": "長崎市",
+   "area": "思案橋",
+   "address": "長崎県長崎市本石灰町4-3",
+   "url": "https://the-room-7.jimdosite.com/",
+   "source": "https://nagasaki-search.com/38620/",
+   "confidence": "medium",
+   "note": "公式サイトあり。カジノバー"
+  },
+  {
+   "name": "TrickSter（大分県ポーカークラブ）",
+   "pref": "大分県",
+   "city": "大分市",
+   "area": "都町",
+   "address": "大分県大分市都町3丁目1-21 セイワビル2F",
+   "url": "https://x.com/trickster_oita",
+   "source": "https://x.com/trickster_oita",
+   "confidence": "medium",
+   "note": "検索結果の抜粋のみで確認（ページ本文は未取得）。営業中か要再確認"
+  },
+  {
+   "name": "Jack9（ジャック ナイン）",
+   "pref": "沖縄県",
+   "city": "那覇市",
+   "area": "安里",
+   "address": "",
+   "url": "https://twitter.com/jack9_amusement",
+   "source": "https://twitter.com/jack9_amusement",
+   "confidence": "medium",
+   "note": "検索結果の抜粋のみで確認（ページ本文は未取得）。営業中か要再確認"
+  }
+ ]
+}
